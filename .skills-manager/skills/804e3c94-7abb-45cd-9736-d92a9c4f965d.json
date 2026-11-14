@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "804e3c94-7abb-45cd-9736-d92a9c4f965d",
+  "path": "egm-review",
+  "path_key": "egm-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

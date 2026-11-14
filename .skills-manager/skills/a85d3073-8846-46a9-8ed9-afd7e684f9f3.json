@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a85d3073-8846-46a9-8ed9-afd7e684f9f3",
+  "path": "Bun Get the process uptime in nanoseconds",
+  "path_key": "bun get the process uptime in nanoseconds",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

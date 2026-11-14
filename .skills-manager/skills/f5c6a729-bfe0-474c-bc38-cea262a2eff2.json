@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5c6a729-bfe0-474c-bc38-cea262a2eff2",
+  "path": "gke-backup-dr",
+  "path_key": "gke-backup-dr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

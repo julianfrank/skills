@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bac41c2-3ecc-4936-bf8a-14a9c4a73d04",
+  "path": "google-cloud-solution-agentic-ai-data-science-workflow",
+  "path_key": "google-cloud-solution-agentic-ai-data-science-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

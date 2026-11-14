@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1ad6c84-9885-433b-8e7a-7b3e798a4a4f",
+  "path": "Bun Watch Mode",
+  "path_key": "bun watch mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

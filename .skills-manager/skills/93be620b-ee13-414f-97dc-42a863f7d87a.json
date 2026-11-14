@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "93be620b-ee13-414f-97dc-42a863f7d87a",
+  "path": "Bun Build an app with Qwik and Bun",
+  "path_key": "bun build an app with qwik and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

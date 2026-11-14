@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b0c7e48-66ad-4a93-b975-f79f22c7e7fb",
+  "path": "datalineage-summary",
+  "path_key": "datalineage-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "99ea9c12-3e9d-4fd8-8835-9253b43753ad",
+  "path": "Bun Module Resolution",
+  "path_key": "bun module resolution",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

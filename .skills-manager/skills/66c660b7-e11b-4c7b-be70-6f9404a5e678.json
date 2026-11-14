@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "66c660b7-e11b-4c7b-be70-6f9404a5e678",
+  "path": "custom-report",
+  "path_key": "custom-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

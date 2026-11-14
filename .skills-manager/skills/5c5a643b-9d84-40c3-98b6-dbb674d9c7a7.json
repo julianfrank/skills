@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c5a643b-9d84-40c3-98b6-dbb674d9c7a7",
+  "path": "Bun Check if the current file is the entrypoint",
+  "path_key": "bun check if the current file is the entrypoint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

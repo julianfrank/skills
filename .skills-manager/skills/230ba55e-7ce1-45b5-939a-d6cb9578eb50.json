@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "230ba55e-7ce1-45b5-939a-d6cb9578eb50",
+  "path": "firecrawl-knowledge-ingest",
+  "path_key": "firecrawl-knowledge-ingest",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

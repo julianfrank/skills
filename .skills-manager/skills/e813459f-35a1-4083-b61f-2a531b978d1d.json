@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e813459f-35a1-4083-b61f-2a531b978d1d",
+  "path": "firecrawl-seo-audit",
+  "path_key": "firecrawl-seo-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

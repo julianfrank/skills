@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0414d12b-60d3-4f19-9ae2-f4c4bdd92fd7",
+  "path": "gke-workload-troubleshooting",
+  "path_key": "gke-workload-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

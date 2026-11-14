@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "080bace3-2efd-4633-8047-3611145b723a",
+  "path": "aws-well-architected-review",
+  "path_key": "aws-well-architected-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

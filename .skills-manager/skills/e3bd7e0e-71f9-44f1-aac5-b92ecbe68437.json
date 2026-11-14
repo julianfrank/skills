@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e3bd7e0e-71f9-44f1-aac5-b92ecbe68437",
+  "path": "Bun Build a publish-subscribe WebSocket server",
+  "path_key": "bun build a publish-subscribe websocket server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

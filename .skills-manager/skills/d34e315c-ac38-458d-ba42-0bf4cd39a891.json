@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d34e315c-ac38-458d-ba42-0bf4cd39a891",
+  "path": "Bun Debugging Bun with the VS Code extension",
+  "path_key": "bun debugging bun with the vs code extension",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

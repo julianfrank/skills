@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a273aa9-9148-4e3a-8cb4-77d1a93136a8",
+  "path": "aws-blocks-2",
+  "path_key": "aws-blocks-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

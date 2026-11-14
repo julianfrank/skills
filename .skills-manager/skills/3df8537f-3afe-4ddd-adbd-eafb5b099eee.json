@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3df8537f-3afe-4ddd-adbd-eafb5b099eee",
+  "path": "gke-ai-troubleshooting-tpu-slice-mig-stuck-updating",
+  "path_key": "gke-ai-troubleshooting-tpu-slice-mig-stuck-updating",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

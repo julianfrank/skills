@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cfa72b9d-a50a-43ce-877e-27fd7df8ff6b",
+  "path": "verify-interactive-cli",
+  "path_key": "verify-interactive-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

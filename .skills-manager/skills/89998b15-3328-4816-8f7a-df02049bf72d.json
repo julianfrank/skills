@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89998b15-3328-4816-8f7a-df02049bf72d",
+  "path": "cloud-monitoring-list-time-series-request",
+  "path_key": "cloud-monitoring-list-time-series-request",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

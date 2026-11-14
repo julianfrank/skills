@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa18d84e-3916-42a4-8257-96f0fb71ca38",
+  "path": "google-analytics-admin-api-basics",
+  "path_key": "google-analytics-admin-api-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00d9fd5b-0751-498b-a4ed-f3da494d86d7",
+  "path": "google-cloud-filestore-nfs-browser",
+  "path_key": "google-cloud-filestore-nfs-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

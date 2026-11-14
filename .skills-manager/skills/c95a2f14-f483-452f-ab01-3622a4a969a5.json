@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c95a2f14-f483-452f-ab01-3622a4a969a5",
+  "path": "Bun Deploy a Bun application on Railway",
+  "path_key": "bun deploy a bun application on railway",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

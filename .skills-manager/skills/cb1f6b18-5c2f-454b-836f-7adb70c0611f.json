@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb1f6b18-5c2f-454b-836f-7adb70c0611f",
+  "path": "gke-storage-troubleshooting",
+  "path_key": "gke-storage-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

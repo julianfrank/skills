@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67a130b0-d6af-4a24-9731-01d4a605bfd0",
+  "path": "cloud-run-basics",
+  "path_key": "cloud-run-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

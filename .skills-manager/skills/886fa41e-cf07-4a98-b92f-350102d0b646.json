@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "886fa41e-cf07-4a98-b92f-350102d0b646",
+  "path": "gke-custom-golden-image-discovery",
+  "path_key": "gke-custom-golden-image-discovery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

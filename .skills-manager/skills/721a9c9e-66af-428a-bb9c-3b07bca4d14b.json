@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "721a9c9e-66af-428a-bb9c-3b07bca4d14b",
+  "path": "Bun Convert a file URL to an absolute path",
+  "path_key": "bun convert a file url to an absolute path",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

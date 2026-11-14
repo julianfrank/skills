@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96e9b7f5-bac7-4eef-94bb-75e1f79fd223",
+  "path": "Bun Spawn a child process and communicate using IPC",
+  "path_key": "bun spawn a child process and communicate using ipc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

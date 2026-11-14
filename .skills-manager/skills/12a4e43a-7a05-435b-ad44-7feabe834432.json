@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "12a4e43a-7a05-435b-ad44-7feabe834432",
+  "path": "google-mobile-ads-rewarded",
+  "path_key": "google-mobile-ads-rewarded",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

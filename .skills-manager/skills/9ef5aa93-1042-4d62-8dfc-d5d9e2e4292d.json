@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ef5aa93-1042-4d62-8dfc-d5d9e2e4292d",
+  "path": "launch-with-aws",
+  "path_key": "launch-with-aws",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de39864a-5f3a-404a-afab-27f14f529c18",
+  "path": "firecrawl-interact",
+  "path_key": "firecrawl-interact",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

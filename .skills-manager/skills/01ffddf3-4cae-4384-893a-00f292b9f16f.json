@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "01ffddf3-4cae-4384-893a-00f292b9f16f",
+  "path": "Bun File Types",
+  "path_key": "bun file types",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

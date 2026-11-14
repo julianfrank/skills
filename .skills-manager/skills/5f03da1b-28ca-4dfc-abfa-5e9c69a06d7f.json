@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5f03da1b-28ca-4dfc-abfa-5e9c69a06d7f",
+  "path": "anymd",
+  "path_key": "anymd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

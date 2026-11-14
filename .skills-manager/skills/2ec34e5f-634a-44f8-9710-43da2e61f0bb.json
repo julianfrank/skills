@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ec34e5f-634a-44f8-9710-43da2e61f0bb",
+  "path": "gke-manifest-generation",
+  "path_key": "gke-manifest-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

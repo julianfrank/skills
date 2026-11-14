@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f4cb1acb-c818-441a-8122-ea770b5f8c55",
+  "path": "diagnosing-superpowers",
+  "path_key": "diagnosing-superpowers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

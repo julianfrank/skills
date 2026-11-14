@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "68cf4106-5398-4d38-889d-31c98ae575bc",
+  "path": "firecrawl-business-contacts",
+  "path_key": "firecrawl-business-contacts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

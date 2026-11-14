@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f92b49cf-05a9-4b0d-994c-6dc5751fadbb",
+  "path": "firecrawl-workflows",
+  "path_key": "firecrawl-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

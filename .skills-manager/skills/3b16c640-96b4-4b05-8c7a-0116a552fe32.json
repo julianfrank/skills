@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b16c640-96b4-4b05-8c7a-0116a552fe32",
+  "path": "Bun Override the default npm registry for bun install",
+  "path_key": "bun override the default npm registry for bun install",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8021611a-846a-460b-9838-1b65e62e8be7",
+  "path": "Bun Glob",
+  "path_key": "bun glob",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

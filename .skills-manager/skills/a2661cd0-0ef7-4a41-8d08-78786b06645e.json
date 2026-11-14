@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2661cd0-0ef7-4a41-8d08-78786b06645e",
+  "path": "google-ads-api-mcp-setup",
+  "path_key": "google-ads-api-mcp-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

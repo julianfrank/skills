@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b745f12-1f0d-4f22-acd7-3d95cee50ae5",
+  "path": "managed-airflow-migrations",
+  "path_key": "managed-airflow-migrations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

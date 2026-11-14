@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "acd4ca9e-72b8-4774-a04d-723be851a27c",
+  "path": "Bun Parse command-line arguments",
+  "path_key": "bun parse command-line arguments",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

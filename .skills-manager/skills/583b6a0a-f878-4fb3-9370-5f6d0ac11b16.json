@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "583b6a0a-f878-4fb3-9370-5f6d0ac11b16",
+  "path": "Bun DOM testing",
+  "path_key": "bun dom testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

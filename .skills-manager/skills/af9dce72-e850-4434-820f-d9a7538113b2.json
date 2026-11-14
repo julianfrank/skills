@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af9dce72-e850-4434-820f-d9a7538113b2",
+  "path": "Bun Configure private registry for org scope",
+  "path_key": "bun configure private registry for org scope",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

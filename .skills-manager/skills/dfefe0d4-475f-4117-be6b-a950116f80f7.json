@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dfefe0d4-475f-4117-be6b-a950116f80f7",
+  "path": "aws-billing-and-cost-management",
+  "path_key": "aws-billing-and-cost-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

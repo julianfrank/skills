@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41f14a14-2cf8-4a0b-a4ac-9d6b71d5ef2c",
+  "path": "Bun Convert a Blob to an ArrayBuffer",
+  "path_key": "bun convert a blob to an arraybuffer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

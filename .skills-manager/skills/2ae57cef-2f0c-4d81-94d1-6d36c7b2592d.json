@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ae57cef-2f0c-4d81-94d1-6d36c7b2592d",
+  "path": "Bun Migrate from npm install to bun install",
+  "path_key": "bun migrate from npm install to bun install",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

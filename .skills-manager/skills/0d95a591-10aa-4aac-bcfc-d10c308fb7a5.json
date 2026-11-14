@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d95a591-10aa-4aac-bcfc-d10c308fb7a5",
+  "path": "Bun Encode and decode base64 strings",
+  "path_key": "bun encode and decode base64 strings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

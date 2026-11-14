@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8b9556b8-6fc8-4c95-a52b-239067cf3022",
+  "path": "connecting-lambda-to-dynamodb",
+  "path_key": "connecting-lambda-to-dynamodb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

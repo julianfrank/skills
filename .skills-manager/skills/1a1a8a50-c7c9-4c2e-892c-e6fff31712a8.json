@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1a1a8a50-c7c9-4c2e-892c-e6fff31712a8",
+  "path": "agent-platform-endpoint-management",
+  "path_key": "agent-platform-endpoint-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "57e40b94-0bae-4526-8da2-e99fd44bb7ea",
+  "path": "Bun Build an app with SolidStart and Bun",
+  "path_key": "bun build an app with solidstart and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

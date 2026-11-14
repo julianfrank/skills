@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "958e5a0c-6d79-48b4-9b96-62693cff549a",
+  "path": "detection-engineering-coverage-evaluation",
+  "path_key": "detection-engineering-coverage-evaluation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

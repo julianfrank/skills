@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c41a9616-a3e8-4fdd-af95-4eb6b825206e",
+  "path": "google-cloud-recipe-auth",
+  "path_key": "google-cloud-recipe-auth",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

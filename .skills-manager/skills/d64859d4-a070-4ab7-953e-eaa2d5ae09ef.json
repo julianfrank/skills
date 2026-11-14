@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d64859d4-a070-4ab7-953e-eaa2d5ae09ef",
+  "path": "agent-platform-rag-engine-management",
+  "path_key": "agent-platform-rag-engine-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

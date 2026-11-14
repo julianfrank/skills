@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30de4ff1-5cc4-4fd0-b5f4-bf0b239b73f6",
+  "path": "bigquery-graph-query",
+  "path_key": "bigquery-graph-query",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

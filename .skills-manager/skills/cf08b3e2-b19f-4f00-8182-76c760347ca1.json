@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf08b3e2-b19f-4f00-8182-76c760347ca1",
+  "path": "Bun Delete a file",
+  "path_key": "bun delete a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

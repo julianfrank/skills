@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "649c77b3-23ac-4fee-960c-b2cd518b4d81",
+  "path": "gke-basics",
+  "path_key": "gke-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

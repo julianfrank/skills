@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "734e8eb5-1778-4e9f-923f-ce5f22ebbfa3",
+  "path": "cloud-trace-querying",
+  "path_key": "cloud-trace-querying",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

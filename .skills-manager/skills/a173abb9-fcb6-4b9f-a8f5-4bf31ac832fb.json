@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a173abb9-fcb6-4b9f-a8f5-4bf31ac832fb",
+  "path": "notebook-guidance",
+  "path_key": "notebook-guidance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

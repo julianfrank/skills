@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "765382b3-0ac0-48c2-8f96-fb404a3f21bc",
+  "path": "Bun Codesign a single-file JavaScript executable on macOS",
+  "path_key": "bun codesign a single-file javascript executable on macos",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41260def-7aab-45bd-b78d-ef930857561a",
+  "path": "Bun Add a trusted dependency",
+  "path_key": "bun add a trusted dependency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd46d62e-f4a0-4bbb-b279-6dbc9478e042",
+  "path": "gke-ai-troubleshooting-tpu-dynamic-slices-monitoring",
+  "path_key": "gke-ai-troubleshooting-tpu-dynamic-slices-monitoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

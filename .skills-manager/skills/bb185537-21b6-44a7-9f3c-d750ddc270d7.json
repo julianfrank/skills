@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bb185537-21b6-44a7-9f3c-d750ddc270d7",
+  "path": "bigquery-troubleshooting",
+  "path_key": "bigquery-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

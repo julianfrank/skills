@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "68c13fd5-2291-48fb-9ddc-7d236b9e34a1",
+  "path": "sync-tsdown-cli",
+  "path_key": "sync-tsdown-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

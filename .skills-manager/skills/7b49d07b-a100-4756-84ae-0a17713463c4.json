@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b49d07b-a100-4756-84ae-0a17713463c4",
+  "path": "Bun Get the absolute path to the current entrypoint",
+  "path_key": "bun get the absolute path to the current entrypoint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

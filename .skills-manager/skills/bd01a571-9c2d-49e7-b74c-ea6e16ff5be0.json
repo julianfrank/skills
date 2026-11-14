@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd01a571-9c2d-49e7-b74c-ea6e16ff5be0",
+  "path": "aws-architecture-diagram",
+  "path_key": "aws-architecture-diagram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

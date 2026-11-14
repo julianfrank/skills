@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b1fd9e4a-8ca3-45d9-b15e-ee0bdacd444f",
+  "path": "Bun Build a frontend using Vite and Bun",
+  "path_key": "bun build a frontend using vite and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

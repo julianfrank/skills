@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4cc954f6-4bdb-4469-a386-ad7f03f01f05",
+  "path": "Bun Security Scanner API",
+  "path_key": "bun security scanner api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

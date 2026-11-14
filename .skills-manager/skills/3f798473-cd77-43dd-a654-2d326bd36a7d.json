@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f798473-cd77-43dd-a654-2d326bd36a7d",
+  "path": "Bun Get the absolute path of the current file",
+  "path_key": "bun get the absolute path of the current file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

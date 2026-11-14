@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33b02300-4b33-473f-824c-598b53e86f49",
+  "path": "discovering-gcp-data-assets",
+  "path_key": "discovering-gcp-data-assets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

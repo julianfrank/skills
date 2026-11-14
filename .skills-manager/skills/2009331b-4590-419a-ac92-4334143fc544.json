@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2009331b-4590-419a-ac92-4334143fc544",
+  "path": "firecrawl-demo-walkthrough",
+  "path_key": "firecrawl-demo-walkthrough",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

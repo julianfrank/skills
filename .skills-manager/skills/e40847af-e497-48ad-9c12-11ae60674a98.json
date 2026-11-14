@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e40847af-e497-48ad-9c12-11ae60674a98",
+  "path": "Bun Selectively run tests concurrently with glob patterns",
+  "path_key": "bun selectively run tests concurrently with glob patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

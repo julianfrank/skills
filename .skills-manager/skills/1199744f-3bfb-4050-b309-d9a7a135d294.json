@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1199744f-3bfb-4050-b309-d9a7a135d294",
+  "path": "smart-split",
+  "path_key": "smart-split",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

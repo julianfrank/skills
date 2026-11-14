@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cbac1b38-9545-4dbe-9886-2ad058080bdb",
+  "path": "bigquery-data-transfer-service",
+  "path_key": "bigquery-data-transfer-service",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

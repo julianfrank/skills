@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff5c3225-7017-4244-a97d-0499c6688807",
+  "path": "Bun Binary Data",
+  "path_key": "bun binary data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

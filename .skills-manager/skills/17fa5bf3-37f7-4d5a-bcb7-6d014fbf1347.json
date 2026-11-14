@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17fa5bf3-37f7-4d5a-bcb7-6d014fbf1347",
+  "path": "Bun Run your tests with the Bun test runner",
+  "path_key": "bun run your tests with the bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6daa79a-d34a-4b89-a9c7-948d526d6d2e",
+  "path": "gcp-spark-troubleshooting",
+  "path_key": "gcp-spark-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70dae4bc-5aef-42e2-afee-dd10ced4b52b",
+  "path": "google-mobile-ads-validate",
+  "path_key": "google-mobile-ads-validate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

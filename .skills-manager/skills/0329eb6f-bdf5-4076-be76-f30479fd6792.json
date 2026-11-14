@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0329eb6f-bdf5-4076-be76-f30479fd6792",
+  "path": "Bun Install a package under a different name",
+  "path_key": "bun install a package under a different name",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

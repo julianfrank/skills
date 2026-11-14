@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2fc51f2-3f27-4f97-8d87-a8e7d3f29db6",
+  "path": "api-gateway-backend-security-and-rate-limiting",
+  "path_key": "api-gateway-backend-security-and-rate-limiting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

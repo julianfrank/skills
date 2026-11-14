@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b1982f5-60f6-4130-9aa3-a71c2bcbc97c",
+  "path": "Bun Node-API",
+  "path_key": "bun node-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

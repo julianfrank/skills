@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e6ebaaa-920b-4816-8db0-cf4b604238d2",
+  "path": "Bun Run tests in watch mode with Bun",
+  "path_key": "bun run tests in watch mode with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

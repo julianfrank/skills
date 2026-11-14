@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "206a9d71-544a-4529-9c23-a686e8e2d9a1",
+  "path": "cloud-logging-configuration-basics",
+  "path_key": "cloud-logging-configuration-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

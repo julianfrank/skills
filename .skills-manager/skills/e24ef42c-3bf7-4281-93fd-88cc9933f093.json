@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e24ef42c-3bf7-4281-93fd-88cc9933f093",
+  "path": "cloud-sql-basics",
+  "path_key": "cloud-sql-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

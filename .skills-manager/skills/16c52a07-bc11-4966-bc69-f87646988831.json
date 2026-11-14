@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16c52a07-bc11-4966-bc69-f87646988831",
+  "path": "Bun Escape an HTML string",
+  "path_key": "bun escape an html string",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

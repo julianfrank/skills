@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6046eb25-8c66-477d-b07e-ef9a264e5d0c",
+  "path": "Bun YAML",
+  "path_key": "bun yaml",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

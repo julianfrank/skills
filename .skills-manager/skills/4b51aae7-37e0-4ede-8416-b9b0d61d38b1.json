@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b51aae7-37e0-4ede-8416-b9b0d61d38b1",
+  "path": "spawn-process",
+  "path_key": "spawn-process",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

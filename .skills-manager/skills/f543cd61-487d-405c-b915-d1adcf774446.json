@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f543cd61-487d-405c-b915-d1adcf774446",
+  "path": "Bun License",
+  "path_key": "bun license",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

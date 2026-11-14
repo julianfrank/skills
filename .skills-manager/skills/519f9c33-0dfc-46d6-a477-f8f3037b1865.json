@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "519f9c33-0dfc-46d6-a477-f8f3037b1865",
+  "path": "Bun Check if two objects are deeply equal",
+  "path_key": "bun check if two objects are deeply equal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

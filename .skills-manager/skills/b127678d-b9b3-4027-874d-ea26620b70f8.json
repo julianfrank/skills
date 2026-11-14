@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b127678d-b9b3-4027-874d-ea26620b70f8",
+  "path": "querying-aws-cloudwatch",
+  "path_key": "querying-aws-cloudwatch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

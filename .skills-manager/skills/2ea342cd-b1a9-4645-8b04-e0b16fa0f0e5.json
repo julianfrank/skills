@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ea342cd-b1a9-4645-8b04-e0b16fa0f0e5",
+  "path": "Bun Code coverage",
+  "path_key": "bun code coverage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "418e6903-e76f-4e31-a373-181ecdd2deae",
+  "path": "Bun Configuring a monorepo using workspaces",
+  "path_key": "bun configuring a monorepo using workspaces",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

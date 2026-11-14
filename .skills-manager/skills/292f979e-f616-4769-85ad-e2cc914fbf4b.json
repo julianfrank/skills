@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "292f979e-f616-4769-85ad-e2cc914fbf4b",
+  "path": "ontology",
+  "path_key": "ontology",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

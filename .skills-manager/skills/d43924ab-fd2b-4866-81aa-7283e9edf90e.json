@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d43924ab-fd2b-4866-81aa-7283e9edf90e",
+  "path": "Bun Read a file to a Buffer",
+  "path_key": "bun read a file to a buffer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

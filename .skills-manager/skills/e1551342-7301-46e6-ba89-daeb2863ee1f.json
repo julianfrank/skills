@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1551342-7301-46e6-ba89-daeb2863ee1f",
+  "path": "Bun Convert a Node.js Readable to JSON",
+  "path_key": "bun convert a node.js readable to json",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "554a2fcf-b4a1-4aac-9cf6-9cdca52409fd",
+  "path": "gke-compute-classes",
+  "path_key": "gke-compute-classes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

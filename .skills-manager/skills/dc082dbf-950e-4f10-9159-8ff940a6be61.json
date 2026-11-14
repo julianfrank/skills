@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dc082dbf-950e-4f10-9159-8ff940a6be61",
+  "path": "ima-dai-sdk",
+  "path_key": "ima-dai-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42960697-a028-4c3e-8357-27dac0126031",
+  "path": "net-worth",
+  "path_key": "net-worth",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

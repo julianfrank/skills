@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e8a3c269-cfc4-456a-a3da-e141bf207e4d",
+  "path": "developer-device-platform-basics",
+  "path_key": "developer-device-platform-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

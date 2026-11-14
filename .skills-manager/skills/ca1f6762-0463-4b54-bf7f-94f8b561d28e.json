@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca1f6762-0463-4b54-bf7f-94f8b561d28e",
+  "path": "google-cloud-slo-alert-configuration",
+  "path_key": "google-cloud-slo-alert-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

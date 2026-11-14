@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4350a067-93c7-49cb-b041-6a9b27c210e4",
+  "path": "federate-lakehouse-catalog",
+  "path_key": "federate-lakehouse-catalog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

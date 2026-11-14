@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8f28d34-109d-4ca5-b471-85c8a0da6b1d",
+  "path": "Bun bun publish",
+  "path_key": "bun bun publish",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea79a33c-1ee5-46e2-b181-81ca2e5bcbe2",
+  "path": "gke-ai-troubleshooting-handle-disruption-gpu-tpu",
+  "path_key": "gke-ai-troubleshooting-handle-disruption-gpu-tpu",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3a25a8ff-c1ad-4169-afbc-d10ef86d1941",
+  "path": "Bun Read a file as a ReadableStream",
+  "path_key": "bun read a file as a readablestream",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

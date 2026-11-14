@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0928a27-f9bb-4273-89ab-64d6025125b2",
+  "path": "Bun Convert a DataView to a string",
+  "path_key": "bun convert a dataview to a string",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00d51774-95ff-4d8a-a0b9-a82e2d4d004b",
+  "path": "Bun Bail early with the Bun test runner",
+  "path_key": "bun bail early with the bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

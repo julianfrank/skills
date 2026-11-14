@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7aded09-8ca8-4102-b5d1-eefce356bad0",
+  "path": "firecrawl-alexandria",
+  "path_key": "firecrawl-alexandria",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ca9b036-0ff4-4d0c-bc7d-1d4153eafc24",
+  "path": "gcp-pipeline-resource-provisioning",
+  "path_key": "gcp-pipeline-resource-provisioning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

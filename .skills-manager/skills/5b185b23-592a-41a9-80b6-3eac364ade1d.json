@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b185b23-592a-41a9-80b6-3eac364ade1d",
+  "path": "storing-and-querying-vectors",
+  "path_key": "storing-and-querying-vectors",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

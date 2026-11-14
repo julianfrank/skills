@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ab25507a-a0e9-415c-b0d2-4241b6717f85",
+  "path": "gke-ai-troubleshooting-tpu-vm-repair-stuck",
+  "path_key": "gke-ai-troubleshooting-tpu-vm-repair-stuck",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

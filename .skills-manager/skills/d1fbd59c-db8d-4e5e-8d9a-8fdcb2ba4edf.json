@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1fbd59c-db8d-4e5e-8d9a-8fdcb2ba4edf",
+  "path": "Bun Add a peer dependency",
+  "path_key": "bun add a peer dependency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

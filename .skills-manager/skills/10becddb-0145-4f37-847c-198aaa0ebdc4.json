@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "10becddb-0145-4f37-847c-198aaa0ebdc4",
+  "path": "Bun Writing tests",
+  "path_key": "bun writing tests",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

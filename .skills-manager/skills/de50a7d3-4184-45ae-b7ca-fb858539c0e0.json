@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de50a7d3-4184-45ae-b7ca-fb858539c0e0",
+  "path": "gke-ai-troubleshooting-tpu-metrics-monitoring",
+  "path_key": "gke-ai-troubleshooting-tpu-metrics-monitoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

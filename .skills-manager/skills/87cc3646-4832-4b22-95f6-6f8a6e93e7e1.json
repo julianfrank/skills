@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "87cc3646-4832-4b22-95f6-6f8a6e93e7e1",
+  "path": "sfxmint",
+  "path_key": "sfxmint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

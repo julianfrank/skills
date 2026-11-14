@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1884d936-a425-47c3-9a13-eceb691861b9",
+  "path": "context7-mcp",
+  "path_key": "context7-mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

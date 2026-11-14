@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "316e5a80-b844-48af-9364-19059565ad49",
+  "path": "google-cloud-storage-fuse",
+  "path_key": "google-cloud-storage-fuse",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

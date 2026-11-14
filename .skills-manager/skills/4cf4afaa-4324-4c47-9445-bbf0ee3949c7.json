@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4cf4afaa-4324-4c47-9445-bbf0ee3949c7",
+  "path": "setting-up-cloudwatch-observability",
+  "path_key": "setting-up-cloudwatch-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

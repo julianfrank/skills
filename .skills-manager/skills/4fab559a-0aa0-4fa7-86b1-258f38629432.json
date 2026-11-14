@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4fab559a-0aa0-4fa7-86b1-258f38629432",
+  "path": "secops-hunt",
+  "path_key": "secops-hunt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

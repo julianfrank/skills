@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "681133f5-9d08-4796-9754-0221bdced48c",
+  "path": "cloud-logging-cross-project-configuration",
+  "path_key": "cloud-logging-cross-project-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2b10d42-c4de-435a-9f1a-4eea79f6e404",
+  "path": "managed-airflow-dag-troubleshooting",
+  "path_key": "managed-airflow-dag-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8df1eba2-69ce-419e-93f6-f65a25db7927",
+  "path": "charitable-giving",
+  "path_key": "charitable-giving",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

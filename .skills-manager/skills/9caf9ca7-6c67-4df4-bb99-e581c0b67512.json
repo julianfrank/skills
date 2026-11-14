@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9caf9ca7-6c67-4df4-bb99-e581c0b67512",
+  "path": "gcp-managed-airflow-recommendations",
+  "path_key": "gcp-managed-airflow-recommendations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

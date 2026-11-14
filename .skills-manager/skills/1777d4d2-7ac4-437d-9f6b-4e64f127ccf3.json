@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1777d4d2-7ac4-437d-9f6b-4e64f127ccf3",
+  "path": "Bun Convert a Blob to a string",
+  "path_key": "bun convert a blob to a string",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d6b8e29-e588-477c-ba26-eaeed12e519a",
+  "path": "Bun Globals",
+  "path_key": "bun globals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

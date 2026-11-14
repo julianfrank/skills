@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4415860a-4683-495d-96e4-7bafce6debf8",
+  "path": "Bun Skip tests with the Bun test runner",
+  "path_key": "bun skip tests with the bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

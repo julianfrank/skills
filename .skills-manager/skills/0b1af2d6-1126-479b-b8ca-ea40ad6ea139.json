@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b1af2d6-1126-479b-b8ca-ea40ad6ea139",
+  "path": "Bun Fullstack dev server",
+  "path_key": "bun fullstack dev server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

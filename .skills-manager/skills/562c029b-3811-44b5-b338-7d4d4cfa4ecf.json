@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "562c029b-3811-44b5-b338-7d4d4cfa4ecf",
+  "path": "cloud-databases-onboarding",
+  "path_key": "cloud-databases-onboarding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

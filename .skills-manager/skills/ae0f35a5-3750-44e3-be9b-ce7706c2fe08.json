@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae0f35a5-3750-44e3-be9b-ce7706c2fe08",
+  "path": "test-pkg-pr-new-migrate",
+  "path_key": "test-pkg-pr-new-migrate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

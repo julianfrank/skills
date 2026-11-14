@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ecacace3-2eb0-4e17-bcd5-ec1c7a600928",
+  "path": "gke-platform-security",
+  "path_key": "gke-platform-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

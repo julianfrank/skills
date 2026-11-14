@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3cc7036d-fcfc-4221-9a5f-ec8c1173d762",
+  "path": "google-cloud-filestore-autoscale",
+  "path_key": "google-cloud-filestore-autoscale",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

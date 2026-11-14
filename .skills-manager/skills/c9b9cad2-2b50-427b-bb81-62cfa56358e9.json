@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9b9cad2-2b50-427b-bb81-62cfa56358e9",
+  "path": "Bun Get the directory of the current file",
+  "path_key": "bun get the directory of the current file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

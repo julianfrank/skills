@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b8fafdc-f999-46f6-8d22-e37ae2333126",
+  "path": "Bun Runtime behavior",
+  "path_key": "bun runtime behavior",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

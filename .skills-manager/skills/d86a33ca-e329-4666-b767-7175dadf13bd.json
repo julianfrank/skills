@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d86a33ca-e329-4666-b767-7175dadf13bd",
+  "path": "Bun fetch with unix domain sockets in Bun",
+  "path_key": "bun fetch with unix domain sockets in bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

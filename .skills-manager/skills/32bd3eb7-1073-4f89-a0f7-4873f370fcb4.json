@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "32bd3eb7-1073-4f89-a0f7-4873f370fcb4",
+  "path": "securing-s3-buckets",
+  "path_key": "securing-s3-buckets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

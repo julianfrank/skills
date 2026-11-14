@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67e29fa7-8c87-4858-9e1b-586fb6c1fa93",
+  "path": "bigquery-bigframes-2",
+  "path_key": "bigquery-bigframes-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

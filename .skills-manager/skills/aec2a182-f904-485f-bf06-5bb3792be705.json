@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aec2a182-f904-485f-bf06-5bb3792be705",
+  "path": "Bun Semver",
+  "path_key": "bun semver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

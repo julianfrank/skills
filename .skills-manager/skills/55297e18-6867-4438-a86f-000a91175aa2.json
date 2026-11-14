@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55297e18-6867-4438-a86f-000a91175aa2",
+  "path": "bigquery-ai-ml-2",
+  "path_key": "bigquery-ai-ml-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

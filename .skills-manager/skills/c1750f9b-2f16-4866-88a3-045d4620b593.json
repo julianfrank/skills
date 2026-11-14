@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1750f9b-2f16-4866-88a3-045d4620b593",
+  "path": "Bun Get the current Bun version",
+  "path_key": "bun get the current bun version",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

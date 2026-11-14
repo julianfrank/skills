@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "325ed562-9f59-4be7-b941-f0a9ffa76775",
+  "path": "assuredworkloads-environment-assessor",
+  "path_key": "assuredworkloads-environment-assessor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

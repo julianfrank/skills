@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "efc8ac25-2384-4343-b88c-1b024f97b215",
+  "path": "Bun Configure TLS on an HTTP server",
+  "path_key": "bun configure tls on an http server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "68223233-b608-4c15-ac89-8882c7a9a0e8",
+  "path": "signing-in-to-aws",
+  "path_key": "signing-in-to-aws",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

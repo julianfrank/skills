@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb096044-0bde-4a03-810d-6b7421f31b8c",
+  "path": "Bun Spy on methods in `bun test`",
+  "path_key": "bun spy on methods in `bun test`",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

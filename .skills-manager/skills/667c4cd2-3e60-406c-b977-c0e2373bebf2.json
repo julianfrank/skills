@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "667c4cd2-3e60-406c-b977-c0e2373bebf2",
+  "path": "Bun Feedback",
+  "path_key": "bun feedback",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

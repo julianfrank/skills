@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2d4e233-7a0d-4906-aecc-25f53f7a34ec",
+  "path": "managed-airflow-dag-authoring",
+  "path_key": "managed-airflow-dag-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

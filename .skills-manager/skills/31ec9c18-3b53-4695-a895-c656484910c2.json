@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31ec9c18-3b53-4695-a895-c656484910c2",
+  "path": "google-cloud-solution-agentic-ai-borderless-data-lakehouse",
+  "path_key": "google-cloud-solution-agentic-ai-borderless-data-lakehouse",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

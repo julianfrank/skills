@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "694ec382-486b-4bb2-9de4-98af2b284536",
+  "path": "zero-based-budget",
+  "path_key": "zero-based-budget",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

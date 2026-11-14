@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "550e501f-b672-4b72-85c7-a3c5ecd25d46",
+  "path": "cloud-logging-query-generation",
+  "path_key": "cloud-logging-query-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d9ec557-2871-4343-b7bb-1b42c56e9ab7",
+  "path": "google-mobile-ads-interstitial",
+  "path_key": "google-mobile-ads-interstitial",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

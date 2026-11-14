@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bb3ee920-d2ed-495a-a555-bb3fa65c2b8d",
+  "path": "Bun Deploy a Bun application on Vercel",
+  "path_key": "bun deploy a bun application on vercel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

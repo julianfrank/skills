@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "302106b7-ead5-4e74-a901-bfaf6ecb9ff1",
+  "path": "firecrawl-monitor",
+  "path_key": "firecrawl-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

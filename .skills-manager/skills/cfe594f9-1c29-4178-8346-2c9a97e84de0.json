@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cfe594f9-1c29-4178-8346-2c9a97e84de0",
+  "path": "google-cloud-storage-basics-2",
+  "path_key": "google-cloud-storage-basics-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

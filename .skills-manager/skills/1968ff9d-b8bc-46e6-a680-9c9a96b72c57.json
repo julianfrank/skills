@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1968ff9d-b8bc-46e6-a680-9c9a96b72c57",
+  "path": "Bun Single-file executable",
+  "path_key": "bun single-file executable",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

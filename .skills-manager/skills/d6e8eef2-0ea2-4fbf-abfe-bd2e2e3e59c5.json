@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d6e8eef2-0ea2-4fbf-abfe-bd2e2e3e59c5",
+  "path": "aws-sdk-python-usage",
+  "path_key": "aws-sdk-python-usage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

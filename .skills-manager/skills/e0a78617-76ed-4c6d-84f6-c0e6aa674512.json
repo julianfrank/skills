@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0a78617-76ed-4c6d-84f6-c0e6aa674512",
+  "path": "aws-amplify",
+  "path_key": "aws-amplify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

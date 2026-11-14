@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24233e22-8bbc-45af-9e9f-5ab7b66552e5",
+  "path": "Bun Define and replace static globals & constants",
+  "path_key": "bun define and replace static globals & constants",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

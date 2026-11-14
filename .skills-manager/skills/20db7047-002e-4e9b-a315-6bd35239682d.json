@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20db7047-002e-4e9b-a315-6bd35239682d",
+  "path": "Bun Import a JSON file",
+  "path_key": "bun import a json file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

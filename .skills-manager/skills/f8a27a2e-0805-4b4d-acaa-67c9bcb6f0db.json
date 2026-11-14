@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8a27a2e-0805-4b4d-acaa-67c9bcb6f0db",
+  "path": "Bun Loaders",
+  "path_key": "bun loaders",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

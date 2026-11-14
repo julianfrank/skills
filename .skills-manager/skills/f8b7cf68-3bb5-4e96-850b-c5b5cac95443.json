@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8b7cf68-3bb5-4e96-850b-c5b5cac95443",
+  "path": "officecli-2",
+  "path_key": "officecli-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "050dcbd0-63d4-4690-ae42-04e6f823d4e0",
+  "path": "Bun Read from stdin",
+  "path_key": "bun read from stdin",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

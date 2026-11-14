@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21a13d58-ceca-4cc7-9ea0-f725da200eb3",
+  "path": "Bun Extract links from a webpage using HTMLRewriter",
+  "path_key": "bun extract links from a webpage using htmlrewriter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

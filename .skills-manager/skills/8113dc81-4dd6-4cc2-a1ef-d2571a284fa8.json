@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8113dc81-4dd6-4cc2-a1ef-d2571a284fa8",
+  "path": "Bun Build an HTTP server using Elysia and Bun",
+  "path_key": "bun build an http server using elysia and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

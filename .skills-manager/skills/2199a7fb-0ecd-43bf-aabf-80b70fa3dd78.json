@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2199a7fb-0ecd-43bf-aabf-80b70fa3dd78",
+  "path": "creating-api-gateway-stage",
+  "path_key": "creating-api-gateway-stage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

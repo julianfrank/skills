@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "12a41308-99a9-4ddf-bcfd-b24dd1aa1bef",
+  "path": "Bun Build a simple WebSocket server",
+  "path_key": "bun build a simple websocket server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3cf4c859-d91f-4f7b-859e-292263d3d072",
+  "path": "aws-auth",
+  "path_key": "aws-auth",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

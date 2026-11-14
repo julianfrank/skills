@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "901845d4-ebb4-4346-bec1-aaff7cc9516c",
+  "path": "Bun UDP",
+  "path_key": "bun udp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

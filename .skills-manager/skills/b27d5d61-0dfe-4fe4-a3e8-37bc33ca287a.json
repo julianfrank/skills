@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b27d5d61-0dfe-4fe4-a3e8-37bc33ca287a",
+  "path": "bigquery-observability",
+  "path_key": "bigquery-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

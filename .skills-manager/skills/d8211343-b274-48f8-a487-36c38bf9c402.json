@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8211343-b274-48f8-a487-36c38bf9c402",
+  "path": "kiteconnect",
+  "path_key": "kiteconnect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

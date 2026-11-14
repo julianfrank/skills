@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e3a8a3db-18d2-4cb3-8454-07c0d35aa208",
+  "path": "firecrawl-deep-research",
+  "path_key": "firecrawl-deep-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

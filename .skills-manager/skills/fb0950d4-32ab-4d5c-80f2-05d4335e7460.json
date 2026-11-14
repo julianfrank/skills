@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb0950d4-32ab-4d5c-80f2-05d4335e7460",
+  "path": "Bun Build an app with Nuxt and Bun",
+  "path_key": "bun build an app with nuxt and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

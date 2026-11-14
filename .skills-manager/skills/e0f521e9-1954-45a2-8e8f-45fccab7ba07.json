@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0f521e9-1954-45a2-8e8f-45fccab7ba07",
+  "path": "Bun Read stderr from a child process",
+  "path_key": "bun read stderr from a child process",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

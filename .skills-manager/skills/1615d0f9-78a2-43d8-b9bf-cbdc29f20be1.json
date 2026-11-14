@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1615d0f9-78a2-43d8-b9bf-cbdc29f20be1",
+  "path": "Bun Check if a file exists",
+  "path_key": "bun check if a file exists",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

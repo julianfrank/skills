@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3cfc29c6-b5f6-4ec3-ace8-c2e89a42f336",
+  "path": "Bun Hashing",
+  "path_key": "bun hashing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9f5bf8dc-14e4-4708-bb7d-86db30f5758f",
+  "path": "Bun Generate a UUID",
+  "path_key": "bun generate a uuid",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

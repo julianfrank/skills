@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a8525ff-7c53-489e-9290-7953c2692ae5",
+  "path": "egm-resolve",
+  "path_key": "egm-resolve",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

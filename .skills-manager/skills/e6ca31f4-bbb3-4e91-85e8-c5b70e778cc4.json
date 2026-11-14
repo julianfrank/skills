@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6ca31f4-bbb3-4e91-85e8-c5b70e778cc4",
+  "path": "gcp-spark",
+  "path_key": "gcp-spark",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

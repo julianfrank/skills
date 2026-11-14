@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d261b0d-fea0-4456-a5fd-63e53aaa3aa8",
+  "path": "firecrawl-lead-gen",
+  "path_key": "firecrawl-lead-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

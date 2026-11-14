@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7558468d-58f2-4fe6-b64f-a3bee46ff3c5",
+  "path": "gke-ai-troubleshooting-tpu-performance-degradation",
+  "path_key": "gke-ai-troubleshooting-tpu-performance-degradation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

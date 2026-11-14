@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1211214-e46e-45bd-933f-baea0204b644",
+  "path": "Bun Write a Response to a file",
+  "path_key": "bun write a response to a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

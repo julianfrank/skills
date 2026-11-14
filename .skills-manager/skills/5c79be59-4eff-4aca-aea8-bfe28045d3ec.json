@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c79be59-4eff-4aca-aea8-bfe28045d3ec",
+  "path": "cash-flow-forecast",
+  "path_key": "cash-flow-forecast",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

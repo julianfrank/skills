@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e3af84f0-5395-4ddf-a5e4-d22c213c264d",
+  "path": "Bun Test configuration",
+  "path_key": "bun test configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8aa00134-4e6c-45c5-bd4c-e8328b055003",
+  "path": "Bun Error Handling",
+  "path_key": "bun error handling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

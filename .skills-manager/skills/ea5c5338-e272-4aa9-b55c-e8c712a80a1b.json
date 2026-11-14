@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea5c5338-e272-4aa9-b55c-e8c712a80a1b",
+  "path": "Bun bun outdated",
+  "path_key": "bun bun outdated",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

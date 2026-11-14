@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49520b46-0ffc-4db4-8b19-df08cf35c3b3",
+  "path": "aws-cloudformation",
+  "path_key": "aws-cloudformation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

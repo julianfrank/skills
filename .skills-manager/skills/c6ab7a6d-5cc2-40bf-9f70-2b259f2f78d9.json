@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6ab7a6d-5cc2-40bf-9f70-2b259f2f78d9",
+  "path": "Bun Installation",
+  "path_key": "bun installation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

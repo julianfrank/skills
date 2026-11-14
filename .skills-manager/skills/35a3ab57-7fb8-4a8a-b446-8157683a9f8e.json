@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35a3ab57-7fb8-4a8a-b446-8157683a9f8e",
+  "path": "gke-cluster-autoscaler",
+  "path_key": "gke-cluster-autoscaler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

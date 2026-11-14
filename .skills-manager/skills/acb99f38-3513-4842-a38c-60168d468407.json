@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "acb99f38-3513-4842-a38c-60168d468407",
+  "path": "building-data-apps",
+  "path_key": "building-data-apps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa6b2b0e-f702-4159-ab10-b5cfcf9ef63d",
+  "path": "egm-draft",
+  "path_key": "egm-draft",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

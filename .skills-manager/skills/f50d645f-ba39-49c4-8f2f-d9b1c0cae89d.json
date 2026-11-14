@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f50d645f-ba39-49c4-8f2f-d9b1c0cae89d",
+  "path": "firecrawl-competitive-intel",
+  "path_key": "firecrawl-competitive-intel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1481540d-ad6a-4386-b8cd-9b59fba15c3c",
+  "path": "aws-iam",
+  "path_key": "aws-iam",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

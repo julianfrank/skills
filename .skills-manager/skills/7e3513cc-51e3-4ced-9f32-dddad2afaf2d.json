@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e3513cc-51e3-4ced-9f32-dddad2afaf2d",
+  "path": "Bun Write a string to a file",
+  "path_key": "bun write a string to a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

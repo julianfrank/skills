@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f147cb6-f360-44fc-b6ee-c71c509427a3",
+  "path": "year-end-summary",
+  "path_key": "year-end-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

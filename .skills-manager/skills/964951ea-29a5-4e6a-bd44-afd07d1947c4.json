@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "964951ea-29a5-4e6a-bd44-afd07d1947c4",
+  "path": "Bun Bundler",
+  "path_key": "bun bundler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

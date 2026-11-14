@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27cf60af-d038-478a-b099-0ca65da72b7e",
+  "path": "datalineage-bigquery-asset-impact-analysis",
+  "path_key": "datalineage-bigquery-asset-impact-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

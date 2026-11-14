@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f4961076-a5a0-467f-a577-56574b371366",
+  "path": "gke-storage",
+  "path_key": "gke-storage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

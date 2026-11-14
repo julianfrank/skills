@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d1ff0d5-3761-4b42-873d-836d05aff6af",
+  "path": "Bun bun create",
+  "path_key": "bun bun create",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

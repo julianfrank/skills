@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "65777c0c-695f-4823-9377-6f104a8e4e10",
+  "path": "managing-python-dependencies",
+  "path_key": "managing-python-dependencies",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

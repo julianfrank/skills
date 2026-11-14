@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69a2da89-a7d2-446e-97cc-dce5bd713e29",
+  "path": "egm-drift-report",
+  "path_key": "egm-drift-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

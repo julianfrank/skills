@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "56569211-773c-43b4-b873-3a0a633ae453",
+  "path": "Bun Bindgen",
+  "path_key": "bun bindgen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

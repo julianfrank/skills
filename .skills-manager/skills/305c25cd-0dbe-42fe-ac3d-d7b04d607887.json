@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "305c25cd-0dbe-42fe-ac3d-d7b04d607887",
+  "path": "Bun Proxy HTTP requests using fetch()",
+  "path_key": "bun proxy http requests using fetch()",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

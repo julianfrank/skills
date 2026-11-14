@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "64d7c28a-6f1d-4376-899b-3813201aa128",
+  "path": "gcp-data-pipelines",
+  "path_key": "gcp-data-pipelines",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

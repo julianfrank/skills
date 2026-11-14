@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c4d7ba58-c0d5-441f-aa09-b33758071208",
+  "path": "Bun Snapshots",
+  "path_key": "bun snapshots",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

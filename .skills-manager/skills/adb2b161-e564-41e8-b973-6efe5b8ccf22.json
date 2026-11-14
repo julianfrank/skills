@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "adb2b161-e564-41e8-b973-6efe5b8ccf22",
+  "path": "iam-helper-for-policy-simulator",
+  "path_key": "iam-helper-for-policy-simulator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8c852d71-9f59-48ac-a17a-0db44438656c",
+  "path": "data-manager-api-audience-ingestion",
+  "path_key": "data-manager-api-audience-ingestion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

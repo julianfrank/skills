@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20a6d4c3-2643-4a92-8e6d-47c0c3f6dcd2",
+  "path": "Bun Build a React app with Bun",
+  "path_key": "bun build a react app with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7810d18-ccb4-43cf-84b9-153943471958",
+  "path": "break-even-calc",
+  "path_key": "break-even-calc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

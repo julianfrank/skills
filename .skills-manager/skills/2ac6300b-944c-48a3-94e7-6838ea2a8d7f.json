@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ac6300b-944c-48a3-94e7-6838ea2a8d7f",
+  "path": "multi-entity",
+  "path_key": "multi-entity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55763265-8086-4fb3-91f1-44f41fc8fd57",
+  "path": "Bun CSS",
+  "path_key": "bun css",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

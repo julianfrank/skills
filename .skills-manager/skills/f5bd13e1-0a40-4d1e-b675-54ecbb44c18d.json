@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5bd13e1-0a40-4d1e-b675-54ecbb44c18d",
+  "path": "aws-sdk-swift-usage",
+  "path_key": "aws-sdk-swift-usage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

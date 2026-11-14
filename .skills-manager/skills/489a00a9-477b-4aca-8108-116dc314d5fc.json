@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "489a00a9-477b-4aca-8108-116dc314d5fc",
+  "path": "Bun Run Bun as a daemon with PM2",
+  "path_key": "bun run bun as a daemon with pm2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

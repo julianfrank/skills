@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95007287-f019-4189-920e-ba7f26d5888c",
+  "path": "Bun Workers",
+  "path_key": "bun workers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

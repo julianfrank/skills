@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "723b1799-1fc7-4ea7-8656-473897df1978",
+  "path": "debt-payoff",
+  "path_key": "debt-payoff",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

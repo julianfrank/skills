@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df756756-57c3-4387-8657-8a038fef364d",
+  "path": "import-transactions",
+  "path_key": "import-transactions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

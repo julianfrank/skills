@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b04ec13-d709-49c0-8b14-eac7d3d1cf64",
+  "path": "Bun Build an app with Remix and Bun",
+  "path_key": "bun build an app with remix and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

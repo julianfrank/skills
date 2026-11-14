@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "93e35ccd-9360-4aaa-b023-4a110f3c2f77",
+  "path": "Bun Mocks",
+  "path_key": "bun mocks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9582c671-d916-4edb-902e-dd746a0ed7a2",
+  "path": "gke-ai-troubleshooting-node-unresponsive-timeout",
+  "path_key": "gke-ai-troubleshooting-node-unresponsive-timeout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

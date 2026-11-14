@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6852632-fed0-4bd9-9585-00488f6c01a3",
+  "path": "google-cloud-solution-agentic-analytics-spark-knowledge-catalog",
+  "path_key": "google-cloud-solution-agentic-analytics-spark-knowledge-catalog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

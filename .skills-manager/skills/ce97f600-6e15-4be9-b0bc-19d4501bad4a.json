@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce97f600-6e15-4be9-b0bc-19d4501bad4a",
+  "path": "Bun Scopes and registries",
+  "path_key": "bun scopes and registries",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

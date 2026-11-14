@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5832adee-3802-421c-9ff0-ff9cd4ce1144",
+  "path": "dbt-sf-to-bq-translator",
+  "path_key": "dbt-sf-to-bq-translator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9fc1ec69-8e45-4f64-8c02-ec738aa6ac5f",
+  "path": "client-profitability",
+  "path_key": "client-profitability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

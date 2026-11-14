@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "81f639b7-1d41-43ac-a71b-38d610b798fd",
+  "path": "Bun Use Prisma Postgres with Bun",
+  "path_key": "bun use prisma postgres with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

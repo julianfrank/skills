@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "04b6b41a-5b9c-46be-ad4e-238a728403ce",
+  "path": "Bun Test runner",
+  "path_key": "bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

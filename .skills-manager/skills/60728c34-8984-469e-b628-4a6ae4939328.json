@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "60728c34-8984-469e-b628-4a6ae4939328",
+  "path": "Bun Run a Shell Command",
+  "path_key": "bun run a shell command",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

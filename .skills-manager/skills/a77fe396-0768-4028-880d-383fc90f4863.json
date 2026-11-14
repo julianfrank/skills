@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a77fe396-0768-4028-880d-383fc90f4863",
+  "path": "google-cloud-solution-hybrid-search-alloydb",
+  "path_key": "google-cloud-solution-hybrid-search-alloydb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

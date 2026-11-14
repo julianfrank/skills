@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ea6c90f-0ab4-4ef9-80c7-a5ccb21e9d14",
+  "path": "gke-reliability",
+  "path_key": "gke-reliability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

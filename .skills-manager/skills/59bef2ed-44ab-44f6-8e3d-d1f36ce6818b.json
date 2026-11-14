@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "59bef2ed-44ab-44f6-8e3d-d1f36ce6818b",
+  "path": "Bun Deploy a Bun application on AWS Lambda",
+  "path_key": "bun deploy a bun application on aws lambda",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

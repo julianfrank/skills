@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35b9d21a-dddc-4ea5-b401-93952190e11e",
+  "path": "schema-mapping",
+  "path_key": "schema-mapping",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

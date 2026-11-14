@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52fa7760-3e70-4807-921a-8e2f86cbc43f",
+  "path": "gke-multitenancy",
+  "path_key": "gke-multitenancy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

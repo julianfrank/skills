@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ed3a760-48b9-489e-8a6e-906f417fb806",
+  "path": "seasonal-patterns",
+  "path_key": "seasonal-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

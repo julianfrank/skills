@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9611fb21-60e3-4ddc-8181-5e298f93efaa",
+  "path": "gke-golden-path",
+  "path_key": "gke-golden-path",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

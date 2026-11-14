@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b1ee078a-a550-4cdb-b80c-1eab1ed755c0",
+  "path": "spending-review",
+  "path_key": "spending-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

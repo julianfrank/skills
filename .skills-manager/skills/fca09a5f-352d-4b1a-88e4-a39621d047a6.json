@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fca09a5f-352d-4b1a-88e4-a39621d047a6",
+  "path": "gcs-security-assessment",
+  "path_key": "gcs-security-assessment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

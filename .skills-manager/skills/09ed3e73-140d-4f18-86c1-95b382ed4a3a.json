@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "09ed3e73-140d-4f18-86c1-95b382ed4a3a",
+  "path": "Bun Convert an ArrayBuffer to an array of numbers",
+  "path_key": "bun convert an arraybuffer to an array of numbers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

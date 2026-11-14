@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "08f2541e-bf1f-4210-8261-2d78262596d2",
+  "path": "Bun Lockfile",
+  "path_key": "bun lockfile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

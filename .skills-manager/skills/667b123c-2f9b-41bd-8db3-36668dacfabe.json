@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "667b123c-2f9b-41bd-8db3-36668dacfabe",
+  "path": "bigquery-optimization",
+  "path_key": "bigquery-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3d342a1b-3b91-4869-a682-febbae023611",
+  "path": "Bun Compress and decompress data with gzip",
+  "path_key": "bun compress and decompress data with gzip",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

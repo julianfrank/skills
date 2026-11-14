@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74bae9cc-6075-49d4-81a4-013a53ebe52e",
+  "path": "aws-networking",
+  "path_key": "aws-networking",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

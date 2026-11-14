@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "134e0ca7-a0e4-49d3-b5f0-4a88e0c0b657",
+  "path": "egm-bootstrap",
+  "path_key": "egm-bootstrap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

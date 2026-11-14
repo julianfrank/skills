@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31316ad6-c494-41ca-8c74-2a3fecc45727",
+  "path": "Bun HTMLRewriter",
+  "path_key": "bun htmlrewriter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

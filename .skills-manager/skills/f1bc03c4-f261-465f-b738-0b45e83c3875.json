@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1bc03c4-f261-465f-b738-0b45e83c3875",
+  "path": "google-cloud-recipe-foundation-builder",
+  "path_key": "google-cloud-recipe-foundation-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

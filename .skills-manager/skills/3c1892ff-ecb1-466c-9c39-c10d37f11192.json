@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3c1892ff-ecb1-466c-9c39-c10d37f11192",
+  "path": "gke-alert-configuration",
+  "path_key": "gke-alert-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

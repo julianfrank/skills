@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c082a3ac-7579-4221-9996-52be280881fb",
+  "path": "Bun bun why",
+  "path_key": "bun bun why",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

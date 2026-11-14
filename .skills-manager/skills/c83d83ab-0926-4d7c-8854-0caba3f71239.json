@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c83d83ab-0926-4d7c-8854-0caba3f71239",
+  "path": "Bun Web APIs",
+  "path_key": "bun web apis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

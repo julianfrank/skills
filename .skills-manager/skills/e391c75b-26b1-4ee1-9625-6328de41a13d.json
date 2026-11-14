@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e391c75b-26b1-4ee1-9625-6328de41a13d",
+  "path": "firecrawl-research-papers",
+  "path_key": "firecrawl-research-papers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

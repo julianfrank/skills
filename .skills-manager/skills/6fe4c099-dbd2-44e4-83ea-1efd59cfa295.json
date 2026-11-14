@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6fe4c099-dbd2-44e4-83ea-1efd59cfa295",
+  "path": "gcp-managed-airflow-dag-authoring",
+  "path_key": "gcp-managed-airflow-dag-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

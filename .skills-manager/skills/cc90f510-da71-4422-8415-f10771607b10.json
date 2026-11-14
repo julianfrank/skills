@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc90f510-da71-4422-8415-f10771607b10",
+  "path": "Bun TCP",
+  "path_key": "bun tcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

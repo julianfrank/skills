@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "073f12a7-b17b-4bf8-ab50-8955e927147d",
+  "path": "Bun import, require, and test Svelte components with bun test",
+  "path_key": "bun import, require, and test svelte components with bun test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

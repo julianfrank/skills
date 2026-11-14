@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1a8d38dd-8edb-4673-99da-c6463291f2a0",
+  "path": "Bun Mark a test as a _todo_ with the Bun test runner",
+  "path_key": "bun mark a test as a _todo_ with the bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

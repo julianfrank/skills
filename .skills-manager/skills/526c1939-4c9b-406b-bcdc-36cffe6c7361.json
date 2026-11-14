@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "526c1939-4c9b-406b-bcdc-36cffe6c7361",
+  "path": "Bun Enable compression for WebSocket messages",
+  "path_key": "bun enable compression for websocket messages",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

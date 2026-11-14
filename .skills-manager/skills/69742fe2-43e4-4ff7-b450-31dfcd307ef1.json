@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69742fe2-43e4-4ff7-b450-31dfcd307ef1",
+  "path": "Bun Build an app with Next.js and Bun",
+  "path_key": "bun build an app with next.js and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

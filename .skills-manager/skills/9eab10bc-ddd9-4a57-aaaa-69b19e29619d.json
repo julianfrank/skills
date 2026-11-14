@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9eab10bc-ddd9-4a57-aaaa-69b19e29619d",
+  "path": "Bun Send an HTTP request using fetch",
+  "path_key": "bun send an http request using fetch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5318ce3f-b1e0-48f6-bbac-770132f376ee",
+  "path": "Bun Convert a Uint8Array to a DataView",
+  "path_key": "bun convert a uint8array to a dataview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

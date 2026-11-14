@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c6ce155-7065-419b-9109-3a0e4b7c8e32",
+  "path": "Bun Streams",
+  "path_key": "bun streams",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b044f4c2-2e12-4238-ad77-595a76cca54c",
+  "path": "google-cloud-scc-query",
+  "path_key": "google-cloud-scc-query",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

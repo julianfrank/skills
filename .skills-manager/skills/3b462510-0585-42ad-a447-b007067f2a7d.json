@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b462510-0585-42ad-a447-b007067f2a7d",
+  "path": "bigtable-basics-2",
+  "path_key": "bigtable-basics-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

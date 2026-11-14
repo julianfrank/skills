@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "305ed5ec-6afb-4e4f-95aa-4d7921d22da2",
+  "path": "cloud-monitoring-chart-generation",
+  "path_key": "cloud-monitoring-chart-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

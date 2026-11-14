@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "becc5d95-41e9-4c2c-83ac-f8c29cf78020",
+  "path": "google-cloud-waf-reliability",
+  "path_key": "google-cloud-waf-reliability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

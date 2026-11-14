@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "66b2791c-6cff-4f55-b742-48cf543d03a1",
+  "path": "firebase-basics",
+  "path_key": "firebase-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

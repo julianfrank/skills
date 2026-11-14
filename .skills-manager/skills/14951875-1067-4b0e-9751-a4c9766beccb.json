@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "14951875-1067-4b0e-9751-a4c9766beccb",
+  "path": "bigquery-udfs",
+  "path_key": "bigquery-udfs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e0f91e7-ac50-46e4-b156-2b94c582dfbe",
+  "path": "Bun Stream a file as an HTTP Response",
+  "path_key": "bun stream a file as an http response",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

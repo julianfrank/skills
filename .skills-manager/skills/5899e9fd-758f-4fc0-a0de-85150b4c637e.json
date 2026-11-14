@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5899e9fd-758f-4fc0-a0de-85150b4c637e",
+  "path": "enforcing-resource-attribution",
+  "path_key": "enforcing-resource-attribution",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

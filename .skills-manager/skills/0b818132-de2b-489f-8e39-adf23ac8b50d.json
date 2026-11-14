@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b818132-de2b-489f-8e39-adf23ac8b50d",
+  "path": "Bun Set per-socket contextual data on a WebSocket",
+  "path_key": "bun set per-socket contextual data on a websocket",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

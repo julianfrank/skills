@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bcf093a1-afa4-47fa-b83d-ab0c3145772b",
+  "path": "Bun Add a Git dependency",
+  "path_key": "bun add a git dependency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed547f74-1447-4557-bbeb-df930749adb3",
+  "path": "Bun bun pm",
+  "path_key": "bun bun pm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

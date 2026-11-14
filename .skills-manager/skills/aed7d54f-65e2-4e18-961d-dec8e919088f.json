@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aed7d54f-65e2-4e18-961d-dec8e919088f",
+  "path": "aws-containers",
+  "path_key": "aws-containers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

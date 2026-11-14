@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00cf8473-5c5e-4777-b88e-2773ea861edc",
+  "path": "Bun .npmrc support",
+  "path_key": "bun .npmrc support",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38a77034-f6f5-4180-814e-a26b2c4e54c9",
+  "path": "Bun Read a file to a Uint8Array",
+  "path_key": "bun read a file to a uint8array",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

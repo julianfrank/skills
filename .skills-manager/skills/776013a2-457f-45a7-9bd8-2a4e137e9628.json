@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "776013a2-457f-45a7-9bd8-2a4e137e9628",
+  "path": "Bun Using bun install with Artifactory",
+  "path_key": "bun using bun install with artifactory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "551b62fc-7b32-4f90-8cd3-8bbd59d0ecd7",
+  "path": "month-end-close",
+  "path_key": "month-end-close",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

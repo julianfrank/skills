@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c697ef81-84b7-4eda-a6ce-f04a0a07196b",
+  "path": "cloud-monitoring-promql-query",
+  "path_key": "cloud-monitoring-promql-query",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "29e19c67-26cc-484b-a9ad-88cf00c22abf",
+  "path": "Bun Lifecycle hooks",
+  "path_key": "bun lifecycle hooks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

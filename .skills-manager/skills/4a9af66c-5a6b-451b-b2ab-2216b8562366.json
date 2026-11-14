@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a9af66c-5a6b-451b-b2ab-2216b8562366",
+  "path": "assuredworkloads-frameworks-navigator",
+  "path_key": "assuredworkloads-frameworks-navigator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

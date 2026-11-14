@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f7c02aca-7101-45b0-8abf-5f32a5b097a6",
+  "path": "google-mobile-ads-banner",
+  "path_key": "google-mobile-ads-banner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

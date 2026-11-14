@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b603df9-5b0f-4502-9cb7-a7c508adc459",
+  "path": "be-ambitious",
+  "path_key": "be-ambitious",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

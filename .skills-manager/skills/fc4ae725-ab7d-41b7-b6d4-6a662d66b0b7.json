@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc4ae725-ab7d-41b7-b6d4-6a662d66b0b7",
+  "path": "google-cloud-recipe-onboarding",
+  "path_key": "google-cloud-recipe-onboarding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "85079f47-7a4d-4e92-9292-6dfb062dd554",
+  "path": "Bun Delete directories",
+  "path_key": "bun delete directories",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

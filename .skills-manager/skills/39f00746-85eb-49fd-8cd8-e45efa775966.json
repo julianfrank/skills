@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "39f00746-85eb-49fd-8cd8-e45efa775966",
+  "path": "Bun SQLite",
+  "path_key": "bun sqlite",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

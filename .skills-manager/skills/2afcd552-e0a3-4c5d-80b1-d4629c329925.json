@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2afcd552-e0a3-4c5d-80b1-d4629c329925",
+  "path": "aws-observability",
+  "path_key": "aws-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd0c0dac-b1b4-4ab8-a20c-4e71186bb409",
+  "path": "connecting-lambda-to-api-gateway",
+  "path_key": "connecting-lambda-to-api-gateway",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

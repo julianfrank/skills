@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a3dea94-94b9-4b65-98c9-1e95d7d8e27a",
+  "path": "Bun bun audit",
+  "path_key": "bun bun audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

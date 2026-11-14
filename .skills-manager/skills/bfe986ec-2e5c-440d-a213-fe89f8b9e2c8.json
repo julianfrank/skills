@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bfe986ec-2e5c-440d-a213-fe89f8b9e2c8",
+  "path": "Bun Sleep for a fixed number of milliseconds",
+  "path_key": "bun sleep for a fixed number of milliseconds",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

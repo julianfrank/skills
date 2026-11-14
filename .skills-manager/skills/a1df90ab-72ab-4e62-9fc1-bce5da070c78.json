@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1df90ab-72ab-4e62-9fc1-bce5da070c78",
+  "path": "ml-best-practices",
+  "path_key": "ml-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

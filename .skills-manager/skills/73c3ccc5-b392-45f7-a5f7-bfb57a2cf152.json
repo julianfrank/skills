@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "73c3ccc5-b392-45f7-a5f7-bfb57a2cf152",
+  "path": "Bun Overrides and resolutions",
+  "path_key": "bun overrides and resolutions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

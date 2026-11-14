@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e93b6015-2d19-4fdb-a717-888cf63eba04",
+  "path": "aws-cdk",
+  "path_key": "aws-cdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

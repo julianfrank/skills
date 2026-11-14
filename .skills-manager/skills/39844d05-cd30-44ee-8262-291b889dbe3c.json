@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "39844d05-cd30-44ee-8262-291b889dbe3c",
+  "path": "Bun Generate code coverage reports with the Bun test runner",
+  "path_key": "bun generate code coverage reports with the bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "557c1878-2bc2-415a-a750-fdb11abe0d92",
+  "path": "firecrawl-dashboard-reporting",
+  "path_key": "firecrawl-dashboard-reporting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

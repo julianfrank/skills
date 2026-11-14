@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26260885-e75d-498c-932b-2a79d2075813",
+  "path": "gcp-managed-spark-upgrades",
+  "path_key": "gcp-managed-spark-upgrades",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

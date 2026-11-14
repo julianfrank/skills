@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba95021e-6a6d-4b90-ab0e-0574b74f9cdb",
+  "path": "creating-secrets-using-best-practices",
+  "path_key": "creating-secrets-using-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

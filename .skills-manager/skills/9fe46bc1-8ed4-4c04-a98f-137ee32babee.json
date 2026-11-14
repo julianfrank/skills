@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9fe46bc1-8ed4-4c04-a98f-137ee32babee",
+  "path": "troubleshooting-application-failures",
+  "path_key": "troubleshooting-application-failures",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

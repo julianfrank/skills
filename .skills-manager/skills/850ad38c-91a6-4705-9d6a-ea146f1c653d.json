@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "850ad38c-91a6-4705-9d6a-ea146f1c653d",
+  "path": "amazon-bedrock",
+  "path_key": "amazon-bedrock",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

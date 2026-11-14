@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5940f2dc-799a-4e01-a207-085993d1a4ab",
+  "path": "Bun Add a development dependency",
+  "path_key": "bun add a development dependency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

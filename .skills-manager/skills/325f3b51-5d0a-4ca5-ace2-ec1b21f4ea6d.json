@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "325f3b51-5d0a-4ca5-ace2-ec1b21f4ea6d",
+  "path": "assured-workloads-basics",
+  "path_key": "assured-workloads-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

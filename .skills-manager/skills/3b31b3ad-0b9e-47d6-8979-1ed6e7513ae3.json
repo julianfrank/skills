@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b31b3ad-0b9e-47d6-8979-1ed6e7513ae3",
+  "path": "secops-cases",
+  "path_key": "secops-cases",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

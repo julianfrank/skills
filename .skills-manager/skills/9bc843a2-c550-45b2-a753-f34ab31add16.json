@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9bc843a2-c550-45b2-a753-f34ab31add16",
+  "path": "Bun Metrics",
+  "path_key": "bun metrics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

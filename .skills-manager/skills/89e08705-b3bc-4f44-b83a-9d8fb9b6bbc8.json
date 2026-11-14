@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89e08705-b3bc-4f44-b83a-9d8fb9b6bbc8",
+  "path": "Bun Install and run Bun in GitHub Actions",
+  "path_key": "bun install and run bun in github actions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3ec95ca-439c-4930-b053-6cc2343050df",
+  "path": "Bun bunfig.toml",
+  "path_key": "bun bunfig.toml",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

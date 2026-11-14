@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0156e95b-3faa-4c5c-ab24-b5fa73601b5e",
+  "path": "Bun bun --filter",
+  "path_key": "bun bun --filter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c17c6cc-a5f2-45e3-a960-c0c911cc17c8",
+  "path": "emergency-fund",
+  "path_key": "emergency-fund",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5bd6c9a-8d5b-4b42-a5dd-a17e4947bd3c",
+  "path": "gke-cost-analysis",
+  "path_key": "gke-cost-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "10829087-974d-4ff2-8b16-2e8b80b006fb",
+  "path": "google-cloud-waf-performance-optimization",
+  "path_key": "google-cloud-waf-performance-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

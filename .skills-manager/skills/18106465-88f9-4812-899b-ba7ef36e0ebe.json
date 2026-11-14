@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "18106465-88f9-4812-899b-ba7ef36e0ebe",
+  "path": "Bun Watch a directory for changes",
+  "path_key": "bun watch a directory for changes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

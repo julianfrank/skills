@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f360b54b-ecfa-42bc-bbca-edd019164bd3",
+  "path": "web-asset-generator",
+  "path_key": "web-asset-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

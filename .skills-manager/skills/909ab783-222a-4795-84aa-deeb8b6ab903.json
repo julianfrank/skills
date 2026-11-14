@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "909ab783-222a-4795-84aa-deeb8b6ab903",
+  "path": "Bun Catalogs",
+  "path_key": "bun catalogs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

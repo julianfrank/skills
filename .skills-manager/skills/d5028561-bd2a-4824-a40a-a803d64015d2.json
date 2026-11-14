@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d5028561-bd2a-4824-a40a-a803d64015d2",
+  "path": "Bun Import a HTML file as text",
+  "path_key": "bun import a html file as text",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

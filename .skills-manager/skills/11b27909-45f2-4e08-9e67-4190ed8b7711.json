@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "11b27909-45f2-4e08-9e67-4190ed8b7711",
+  "path": "Bun Fetch",
+  "path_key": "bun fetch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

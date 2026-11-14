@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fcbac0f3-c677-4d2a-974b-72786c226d9a",
+  "path": "Bun Inspect memory usage using V8 heap snapshots",
+  "path_key": "bun inspect memory usage using v8 heap snapshots",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

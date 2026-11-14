@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4e25314-2602-44c9-8ed7-f7c9267c4c90",
+  "path": "cloud-build-basics",
+  "path_key": "cloud-build-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

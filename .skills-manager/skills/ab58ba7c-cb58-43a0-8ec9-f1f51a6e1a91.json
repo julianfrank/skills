@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ab58ba7c-cb58-43a0-8ec9-f1f51a6e1a91",
+  "path": "Bun Use Neon Postgres through Drizzle ORM",
+  "path_key": "bun use neon postgres through drizzle orm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

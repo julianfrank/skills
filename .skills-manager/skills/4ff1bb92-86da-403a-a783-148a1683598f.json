@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4ff1bb92-86da-403a-a783-148a1683598f",
+  "path": "application-design-center-design-deploy",
+  "path_key": "application-design-center-design-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

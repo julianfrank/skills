@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce7804a0-f1a8-46b7-9bd5-68f578ac812a",
+  "path": "mileage-tracker",
+  "path_key": "mileage-tracker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

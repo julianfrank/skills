@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5e32a6bd-de13-4aba-89c9-371ff6d68e78",
+  "path": "google-cloud-storage-bucket-architect",
+  "path_key": "google-cloud-storage-bucket-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

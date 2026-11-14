@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e353aaa4-f3cf-4b77-bd9d-eee27bfcf33c",
+  "path": "Bun Install TypeScript declarations for Bun",
+  "path_key": "bun install typescript declarations for bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

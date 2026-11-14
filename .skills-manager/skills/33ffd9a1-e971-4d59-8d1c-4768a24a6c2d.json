@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33ffd9a1-e971-4d59-8d1c-4768a24a6c2d",
+  "path": "Bun Spawn",
+  "path_key": "bun spawn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a347e459-46a8-4ced-9b58-e83e1f754776",
+  "path": "Bun Using Testing Library with Bun",
+  "path_key": "bun using testing library with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

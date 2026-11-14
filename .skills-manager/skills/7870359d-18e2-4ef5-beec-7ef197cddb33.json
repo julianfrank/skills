@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7870359d-18e2-4ef5-beec-7ef197cddb33",
+  "path": "Bun Build an HTTP server using StricJS and Bun",
+  "path_key": "bun build an http server using stricjs and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

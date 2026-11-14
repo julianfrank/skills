@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d6c21e2-72d9-4858-99e3-a0353923cf34",
+  "path": "depreciation-schedule",
+  "path_key": "depreciation-schedule",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

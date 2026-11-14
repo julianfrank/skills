@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31d2cf3c-57e8-4777-a960-b70108fd6cb2",
+  "path": "brainstorming",
+  "path_key": "brainstorming",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

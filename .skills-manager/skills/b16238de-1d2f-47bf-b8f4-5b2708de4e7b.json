@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b16238de-1d2f-47bf-b8f4-5b2708de4e7b",
+  "path": "aws-lambda-durable-functions",
+  "path_key": "aws-lambda-durable-functions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

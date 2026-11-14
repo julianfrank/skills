@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac175620-6226-4603-9a5b-d119ea8e5017",
+  "path": "cloud-monitoring-notification-channels-configuration",
+  "path_key": "cloud-monitoring-notification-channels-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

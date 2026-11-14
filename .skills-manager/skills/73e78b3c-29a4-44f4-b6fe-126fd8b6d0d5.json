@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "73e78b3c-29a4-44f4-b6fe-126fd8b6d0d5",
+  "path": "gke-workload-security",
+  "path_key": "gke-workload-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

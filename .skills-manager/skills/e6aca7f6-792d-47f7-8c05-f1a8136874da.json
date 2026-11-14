@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6aca7f6-792d-47f7-8c05-f1a8136874da",
+  "path": "ima-sdk-client-side",
+  "path_key": "ima-sdk-client-side",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "474129ad-da9f-4670-b24e-53deb91898ac",
+  "path": "invoice-aging",
+  "path_key": "invoice-aging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

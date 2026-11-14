@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "caf6d3a8-67a1-47b7-8a36-1583336a0619",
+  "path": "secops-triage",
+  "path_key": "secops-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

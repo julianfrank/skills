@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "97e23a03-3d74-4ece-840f-1e7aa0085584",
+  "path": "Bun Copy a file to another location",
+  "path_key": "bun copy a file to another location",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

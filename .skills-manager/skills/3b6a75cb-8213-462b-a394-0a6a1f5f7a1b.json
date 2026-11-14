@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b6a75cb-8213-462b-a394-0a6a1f5f7a1b",
+  "path": "Bun Generate a yarn-compatible lockfile",
+  "path_key": "bun generate a yarn-compatible lockfile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

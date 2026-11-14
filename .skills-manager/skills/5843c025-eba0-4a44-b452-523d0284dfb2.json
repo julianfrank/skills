@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5843c025-eba0-4a44-b452-523d0284dfb2",
+  "path": "Bun Finding tests",
+  "path_key": "bun finding tests",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

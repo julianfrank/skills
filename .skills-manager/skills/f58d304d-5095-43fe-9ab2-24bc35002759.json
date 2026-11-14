@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f58d304d-5095-43fe-9ab2-24bc35002759",
+  "path": "gke-workload-identity",
+  "path_key": "gke-workload-identity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

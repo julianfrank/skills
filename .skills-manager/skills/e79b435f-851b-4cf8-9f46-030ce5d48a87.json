@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e79b435f-851b-4cf8-9f46-030ce5d48a87",
+  "path": "gke-node-notready",
+  "path_key": "gke-node-notready",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

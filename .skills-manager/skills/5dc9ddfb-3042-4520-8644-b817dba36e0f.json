@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5dc9ddfb-3042-4520-8644-b817dba36e0f",
+  "path": "Bun bun link",
+  "path_key": "bun bun link",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

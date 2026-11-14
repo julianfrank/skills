@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34dfab2e-a488-4e71-97dd-2777386cf8ea",
+  "path": "Bun Transpiler",
+  "path_key": "bun transpiler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

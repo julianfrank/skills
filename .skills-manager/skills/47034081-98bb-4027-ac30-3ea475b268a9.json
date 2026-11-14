@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47034081-98bb-4027-ac30-3ea475b268a9",
+  "path": "gke-batch-hpc",
+  "path_key": "gke-batch-hpc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e489ba6-819d-49b0-a400-3438ac7ad697",
+  "path": "application-integration-authoring",
+  "path_key": "application-integration-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

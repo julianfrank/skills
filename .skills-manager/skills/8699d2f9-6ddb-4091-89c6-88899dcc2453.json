@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8699d2f9-6ddb-4091-89c6-88899dcc2453",
+  "path": "Bun Detect when code is executed with Bun",
+  "path_key": "bun detect when code is executed with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

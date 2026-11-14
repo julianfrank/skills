@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "196ec75f-a5c9-4d3b-9539-f03ae8d881dc",
+  "path": "gke-observability",
+  "path_key": "gke-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

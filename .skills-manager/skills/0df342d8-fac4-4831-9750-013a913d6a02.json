@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0df342d8-fac4-4831-9750-013a913d6a02",
+  "path": "Bun Extract social share images and Open Graph tags",
+  "path_key": "bun extract social share images and open graph tags",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

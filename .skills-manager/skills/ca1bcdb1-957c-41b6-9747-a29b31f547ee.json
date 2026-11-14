@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca1bcdb1-957c-41b6-9747-a29b31f547ee",
+  "path": "data-manager-api-event-ingestion",
+  "path_key": "data-manager-api-event-ingestion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

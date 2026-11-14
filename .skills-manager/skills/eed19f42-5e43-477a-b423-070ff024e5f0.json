@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eed19f42-5e43-477a-b423-070ff024e5f0",
+  "path": "Bun Console",
+  "path_key": "bun console",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

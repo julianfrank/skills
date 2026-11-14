@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "83da648b-c685-422d-a3ec-7c4c0a985bd3",
+  "path": "Bun TypeScript",
+  "path_key": "bun typescript",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

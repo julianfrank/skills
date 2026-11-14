@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27246387-8ab1-4c9a-b1b3-396e57b2c6c1",
+  "path": "Bun Minifier",
+  "path_key": "bun minifier",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

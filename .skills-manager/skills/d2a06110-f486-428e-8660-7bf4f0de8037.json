@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d2a06110-f486-428e-8660-7bf4f0de8037",
+  "path": "firecrawl-job-postings",
+  "path_key": "firecrawl-job-postings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

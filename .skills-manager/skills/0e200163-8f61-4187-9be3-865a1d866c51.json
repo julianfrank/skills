@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e200163-8f61-4187-9be3-865a1d866c51",
+  "path": "sign-in-with-google-web",
+  "path_key": "sign-in-with-google-web",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

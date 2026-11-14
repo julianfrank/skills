@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b1f579dd-e36b-4137-ac70-defa94665f9a",
+  "path": "data-manager-api-setup",
+  "path_key": "data-manager-api-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

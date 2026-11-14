@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "32e77bfb-a3d9-435d-8874-14176e2ee3ff",
+  "path": "Bun Plugins",
+  "path_key": "bun plugins",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

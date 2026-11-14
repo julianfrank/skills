@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1e9620e-ba2d-4bba-8626-0b80839f8fd3",
+  "path": "profit-loss",
+  "path_key": "profit-loss",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d40e8914-aad2-4239-938a-bbda3cf36f6b",
+  "path": "Bun Use Neon's Serverless Postgres with Bun",
+  "path_key": "bun use neon's serverless postgres with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

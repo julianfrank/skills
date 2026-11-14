@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38469cbd-8806-473a-b611-4baa38c1227e",
+  "path": "gke-app-onboarding",
+  "path_key": "gke-app-onboarding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

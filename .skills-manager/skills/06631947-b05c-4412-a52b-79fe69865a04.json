@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06631947-b05c-4412-a52b-79fe69865a04",
+  "path": "Bun Read stdout from a child process",
+  "path_key": "bun read stdout from a child process",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

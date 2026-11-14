@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c32447b9-a01b-46f9-9261-6a39f74ba115",
+  "path": "Bun bun init",
+  "path_key": "bun bun init",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

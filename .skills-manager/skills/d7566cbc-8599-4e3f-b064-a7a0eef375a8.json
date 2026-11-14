@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7566cbc-8599-4e3f-b064-a7a0eef375a8",
+  "path": "financial-goals",
+  "path_key": "financial-goals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

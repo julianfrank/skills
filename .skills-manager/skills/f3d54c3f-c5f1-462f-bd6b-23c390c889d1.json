@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f3d54c3f-c5f1-462f-bd6b-23c390c889d1",
+  "path": "Bun Re-map import paths",
+  "path_key": "bun re-map import paths",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

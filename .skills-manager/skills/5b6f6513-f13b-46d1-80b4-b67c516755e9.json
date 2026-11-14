@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b6f6513-f13b-46d1-80b4-b67c516755e9",
+  "path": "secops-detection-engineering",
+  "path_key": "secops-detection-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

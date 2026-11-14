@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "530af4b9-e323-41c6-9d75-5f6da7a06ec1",
+  "path": "Bun S3",
+  "path_key": "bun s3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

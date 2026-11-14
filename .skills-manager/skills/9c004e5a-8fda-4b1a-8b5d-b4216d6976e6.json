@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c004e5a-8fda-4b1a-8b5d-b4216d6976e6",
+  "path": "google-cloud-waf-security",
+  "path_key": "google-cloud-waf-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

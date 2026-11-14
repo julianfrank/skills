@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5d7e7b4-71a4-4372-9e21-5801cea2afbb",
+  "path": "Bun Use Prisma with Bun",
+  "path_key": "bun use prisma with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

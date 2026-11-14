@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f3dd200-8dd8-4472-b231-4fa6928cc6eb",
+  "path": "gke-cluster-creation",
+  "path_key": "gke-cluster-creation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

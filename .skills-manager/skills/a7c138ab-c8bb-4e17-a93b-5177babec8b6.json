@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7c138ab-c8bb-4e17-a93b-5177babec8b6",
+  "path": "Bun JSON5",
+  "path_key": "bun json5",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

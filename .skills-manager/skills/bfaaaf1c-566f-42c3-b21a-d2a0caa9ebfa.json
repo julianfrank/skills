@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bfaaaf1c-566f-42c3-b21a-d2a0caa9ebfa",
+  "path": "Bun Secrets",
+  "path_key": "bun secrets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

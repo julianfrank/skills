@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "57e6fafc-897c-40be-98f9-3a4f809f713c",
+  "path": "aws-serverless",
+  "path_key": "aws-serverless",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

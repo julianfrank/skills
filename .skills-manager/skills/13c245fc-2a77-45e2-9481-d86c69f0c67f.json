@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "13c245fc-2a77-45e2-9481-d86c69f0c67f",
+  "path": "monthly-digest",
+  "path_key": "monthly-digest",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

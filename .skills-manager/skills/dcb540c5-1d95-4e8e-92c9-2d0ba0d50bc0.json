@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dcb540c5-1d95-4e8e-92c9-2d0ba0d50bc0",
+  "path": "Bun Build an HTTP server using Express and Bun",
+  "path_key": "bun build an http server using express and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

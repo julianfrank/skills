@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "323e7b4a-f148-494b-bfff-bbc44f8f52c3",
+  "path": "Bun Spawn a child process",
+  "path_key": "bun spawn a child process",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

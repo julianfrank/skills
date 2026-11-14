@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea7bb98f-acbc-4695-880a-216432765262",
+  "path": "iam-helper-for-privileged-access-management",
+  "path_key": "iam-helper-for-privileged-access-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

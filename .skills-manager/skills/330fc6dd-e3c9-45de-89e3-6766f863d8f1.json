@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "330fc6dd-e3c9-45de-89e3-6766f863d8f1",
+  "path": "open-pencil",
+  "path_key": "open-pencil",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

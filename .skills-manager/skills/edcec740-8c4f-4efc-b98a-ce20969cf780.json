@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "edcec740-8c4f-4efc-b98a-ce20969cf780",
+  "path": "aws-sdk-js-v3-usage",
+  "path_key": "aws-sdk-js-v3-usage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

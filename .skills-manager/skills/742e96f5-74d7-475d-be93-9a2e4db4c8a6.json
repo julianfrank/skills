@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "742e96f5-74d7-475d-be93-9a2e4db4c8a6",
+  "path": "gke-service-networking",
+  "path_key": "gke-service-networking",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

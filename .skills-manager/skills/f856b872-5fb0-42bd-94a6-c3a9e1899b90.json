@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f856b872-5fb0-42bd-94a6-c3a9e1899b90",
+  "path": "developing-genkit-dart",
+  "path_key": "developing-genkit-dart",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

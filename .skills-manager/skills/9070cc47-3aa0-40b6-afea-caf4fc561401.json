@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9070cc47-3aa0-40b6-afea-caf4fc561401",
+  "path": "gke-productionize",
+  "path_key": "gke-productionize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

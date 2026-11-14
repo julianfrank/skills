@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25e474a7-f283-451a-be52-ba407b4d0b24",
+  "path": "Bun Add an optional dependency",
+  "path_key": "bun add an optional dependency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

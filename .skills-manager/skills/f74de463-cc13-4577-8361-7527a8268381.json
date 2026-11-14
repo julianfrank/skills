@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f74de463-cc13-4577-8361-7527a8268381",
+  "path": "google-mobile-ads-android-migrate-to-next-gen",
+  "path_key": "google-mobile-ads-android-migrate-to-next-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

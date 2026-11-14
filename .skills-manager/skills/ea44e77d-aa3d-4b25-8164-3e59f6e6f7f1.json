@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea44e77d-aa3d-4b25-8164-3e59f6e6f7f1",
+  "path": "cloud-monitoring-metric-selection",
+  "path_key": "cloud-monitoring-metric-selection",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

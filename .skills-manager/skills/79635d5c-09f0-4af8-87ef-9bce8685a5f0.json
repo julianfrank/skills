@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79635d5c-09f0-4af8-87ef-9bce8685a5f0",
+  "path": "Bun Write browser DOM tests with Bun and happy-dom",
+  "path_key": "bun write browser dom tests with bun and happy-dom",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

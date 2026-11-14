@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47f5d9d1-689b-4a7c-9dcc-8627a1550c79",
+  "path": "gke-ai-troubleshooting-tpu-vbar-oom",
+  "path_key": "gke-ai-troubleshooting-tpu-vbar-oom",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

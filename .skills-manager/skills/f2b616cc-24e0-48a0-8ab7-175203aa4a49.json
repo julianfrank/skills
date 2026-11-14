@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2b616cc-24e0-48a0-8ab7-175203aa4a49",
+  "path": "aws-ai-ml",
+  "path_key": "aws-ai-ml",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f899b47-5547-4820-b5ea-72f6c590d52d",
+  "path": "sync-upstream-cli-help",
+  "path_key": "sync-upstream-cli-help",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a6fb115-c49c-4167-9abe-3c4b9cb30c55",
+  "path": "revenue-concentration",
+  "path_key": "revenue-concentration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

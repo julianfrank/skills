@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa829253-e34d-4762-b1f1-949c674bbd1c",
+  "path": "Bun Redis",
+  "path_key": "bun redis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ce6637e-b324-4f4a-86d9-4ae62619ec4a",
+  "path": "Bun Quickstart",
+  "path_key": "bun quickstart",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

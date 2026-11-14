@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "676508f1-f289-40e9-866b-884d190a3842",
+  "path": "Bun Containerize a Bun application with Docker",
+  "path_key": "bun containerize a bun application with docker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

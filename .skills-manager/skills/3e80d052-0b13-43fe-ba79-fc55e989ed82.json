@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e80d052-0b13-43fe-ba79-fc55e989ed82",
+  "path": "Bun HTML & static sites",
+  "path_key": "bun html & static sites",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

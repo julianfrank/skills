@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9f0f9f99-1cc6-4709-8297-467b8c8dc6ef",
+  "path": "Bun Import a TOML file",
+  "path_key": "bun import a toml file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

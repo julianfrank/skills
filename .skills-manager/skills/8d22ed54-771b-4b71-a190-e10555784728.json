@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d22ed54-771b-4b71-a190-e10555784728",
+  "path": "Bun Global cache",
+  "path_key": "bun global cache",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

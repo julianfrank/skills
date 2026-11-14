@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6441927-7208-4a71-8336-93f05162c75d",
+  "path": "Bun Read a file to an ArrayBuffer",
+  "path_key": "bun read a file to an arraybuffer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

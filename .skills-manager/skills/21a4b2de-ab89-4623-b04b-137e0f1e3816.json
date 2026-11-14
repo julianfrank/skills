@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21a4b2de-ab89-4623-b04b-137e0f1e3816",
+  "path": "troubleshooting-s3-files",
+  "path_key": "troubleshooting-s3-files",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

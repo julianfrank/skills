@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "725d07f6-2e5f-4899-8cb3-3c2be26e28f3",
+  "path": "gke-ai-troubleshooting-tpu-reservation-stockout",
+  "path_key": "gke-ai-troubleshooting-tpu-reservation-stockout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

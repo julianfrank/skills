@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f753ecdb-766d-4349-ad11-8cbce84fe25a",
+  "path": "Bun Convert a ReadableStream to a string",
+  "path_key": "bun convert a readablestream to a string",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3bb28c0b-3b29-4295-889d-1f85f13f885c",
+  "path": "Bun Bun Redis with Upstash",
+  "path_key": "bun bun redis with upstash",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

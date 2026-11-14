@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f8fbc29-f5b7-4515-a821-3aaf0c09d69a",
+  "path": "google-cloud-solution-guided-gke-ai-migration",
+  "path_key": "google-cloud-solution-guided-gke-ai-migration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

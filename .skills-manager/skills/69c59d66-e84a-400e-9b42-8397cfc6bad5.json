@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69c59d66-e84a-400e-9b42-8397cfc6bad5",
+  "path": "google-agents-cli-onboarding",
+  "path_key": "google-agents-cli-onboarding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

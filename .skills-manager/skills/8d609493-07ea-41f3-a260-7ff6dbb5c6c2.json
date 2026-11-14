@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d609493-07ea-41f3-a260-7ff6dbb5c6c2",
+  "path": "Bun Contributing",
+  "path_key": "bun contributing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

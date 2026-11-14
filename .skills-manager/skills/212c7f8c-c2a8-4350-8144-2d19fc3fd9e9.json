@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "212c7f8c-c2a8-4350-8144-2d19fc3fd9e9",
+  "path": "Bun Read a file as a string",
+  "path_key": "bun read a file as a string",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

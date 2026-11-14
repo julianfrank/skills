@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "78eca57b-2fc8-45fd-a586-e15201dd981b",
+  "path": "Bun Write a Blob to a file",
+  "path_key": "bun write a blob to a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

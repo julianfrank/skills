@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "887f66fa-046f-430c-876d-c5be153ef14e",
+  "path": "Bun Routing",
+  "path_key": "bun routing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf03e828-68af-4ae9-9464-9a2141b74169",
+  "path": "Bun Deploy a Bun application on Google Cloud Run",
+  "path_key": "bun deploy a bun application on google cloud run",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

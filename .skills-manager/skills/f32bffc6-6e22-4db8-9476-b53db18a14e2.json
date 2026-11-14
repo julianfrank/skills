@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f32bffc6-6e22-4db8-9476-b53db18a14e2",
+  "path": "dbt-bigquery",
+  "path_key": "dbt-bigquery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

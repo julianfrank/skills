@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7c3bd1f-cbf2-43d0-ab4c-9fb05afe1604",
+  "path": "Bun Debugging Bun with the web debugger",
+  "path_key": "bun debugging bun with the web debugger",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "358fc5a3-a396-4695-9bb0-9fe662941166",
+  "path": "querying-aws-s3",
+  "path_key": "querying-aws-s3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

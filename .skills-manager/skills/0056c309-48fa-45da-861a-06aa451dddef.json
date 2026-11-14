@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0056c309-48fa-45da-861a-06aa451dddef",
+  "path": "Bun Server-side render (SSR) a React component",
+  "path_key": "bun server-side render (ssr) a react component",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ea9ddcc-1694-4846-b965-a97bd845f643",
+  "path": "google-cloud-solution-multi-agent-security",
+  "path_key": "google-cloud-solution-multi-agent-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

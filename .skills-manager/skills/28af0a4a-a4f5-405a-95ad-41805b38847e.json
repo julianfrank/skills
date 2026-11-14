@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "28af0a4a-a4f5-405a-95ad-41805b38847e",
+  "path": "google-cloud-storage-diagnostic",
+  "path_key": "google-cloud-storage-diagnostic",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

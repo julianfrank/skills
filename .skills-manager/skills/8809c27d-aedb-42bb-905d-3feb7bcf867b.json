@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8809c27d-aedb-42bb-905d-3feb7bcf867b",
+  "path": "google-cloud-solution-rag-enterprise-search-gke-sqldb",
+  "path_key": "google-cloud-solution-rag-enterprise-search-gke-sqldb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

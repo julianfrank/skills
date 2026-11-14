@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7fc3efc-272d-46a8-8153-a1e5fbf43668",
+  "path": "secops-investigate",
+  "path_key": "secops-investigate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

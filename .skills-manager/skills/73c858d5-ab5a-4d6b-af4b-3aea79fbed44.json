@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "73c858d5-ab5a-4d6b-af4b-3aea79fbed44",
+  "path": "Bun Guides",
+  "path_key": "bun guides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

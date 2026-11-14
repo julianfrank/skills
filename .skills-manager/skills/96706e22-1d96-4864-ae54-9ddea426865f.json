@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96706e22-1d96-4864-ae54-9ddea426865f",
+  "path": "google-cloud-waf-sustainability",
+  "path_key": "google-cloud-waf-sustainability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f0707c60-889e-4df5-9648-e030d453415d",
+  "path": "google-cloud-global-frontend-configuration",
+  "path_key": "google-cloud-global-frontend-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "501321cd-b8b6-438d-a456-2aa9b2ec244c",
+  "path": "Bun Test Reporters",
+  "path_key": "bun test reporters",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

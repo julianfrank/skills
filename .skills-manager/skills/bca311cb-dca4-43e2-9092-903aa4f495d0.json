@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bca311cb-dca4-43e2-9092-903aa4f495d0",
+  "path": "gke-ai-troubleshooting-tpu-mxla-hang",
+  "path_key": "gke-ai-troubleshooting-tpu-mxla-hang",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d251f724-96a9-4fb0-8a40-4008365698c0",
+  "path": "lifestyle-creep",
+  "path_key": "lifestyle-creep",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

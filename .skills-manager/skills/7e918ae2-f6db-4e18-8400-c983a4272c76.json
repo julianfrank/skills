@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e918ae2-f6db-4e18-8400-c983a4272c76",
+  "path": "insurance-audit",
+  "path_key": "insurance-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

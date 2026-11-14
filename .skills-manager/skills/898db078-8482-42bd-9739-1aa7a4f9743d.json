@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "898db078-8482-42bd-9739-1aa7a4f9743d",
+  "path": "Bun Using bun install with an Azure Artifacts npm registry",
+  "path_key": "bun using bun install with an azure artifacts npm registry",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

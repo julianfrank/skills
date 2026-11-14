@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "65a8a3ab-3ddb-4c3a-894a-caee7555627c",
+  "path": "Bun Convert a Buffer to a string",
+  "path_key": "bun convert a buffer to a string",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

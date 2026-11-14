@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8bd6f98-3695-404c-b55c-a8c9b2b4fb75",
+  "path": "Bun Compress and decompress data with DEFLATE",
+  "path_key": "bun compress and decompress data with deflate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

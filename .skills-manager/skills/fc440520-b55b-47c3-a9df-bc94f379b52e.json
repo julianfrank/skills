@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc440520-b55b-47c3-a9df-bc94f379b52e",
+  "path": "google-cloud-scc-remediation",
+  "path_key": "google-cloud-scc-remediation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

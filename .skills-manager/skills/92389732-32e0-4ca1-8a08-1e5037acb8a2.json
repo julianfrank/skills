@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92389732-32e0-4ca1-8a08-1e5037acb8a2",
+  "path": "google-cloud-auth-verification",
+  "path_key": "google-cloud-auth-verification",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9a4e8b2-c318-4015-a033-31256a33605c",
+  "path": "bigquery-migration-sql-translator",
+  "path_key": "bigquery-migration-sql-translator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

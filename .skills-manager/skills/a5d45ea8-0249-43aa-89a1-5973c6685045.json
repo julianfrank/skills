@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a5d45ea8-0249-43aa-89a1-5973c6685045",
+  "path": "Bun Convert a ReadableStream to an ArrayBuffer",
+  "path_key": "bun convert a readablestream to an arraybuffer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

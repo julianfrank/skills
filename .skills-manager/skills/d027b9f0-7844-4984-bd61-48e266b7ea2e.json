@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d027b9f0-7844-4984-bd61-48e266b7ea2e",
+  "path": "Bun Migrate from Jest to Bun's test runner",
+  "path_key": "bun migrate from jest to bun's test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

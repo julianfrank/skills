@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b900e59c-ff10-41db-a1e1-e481f40f54f5",
+  "path": "Bun Build an app with Astro and Bun",
+  "path_key": "bun build an app with astro and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

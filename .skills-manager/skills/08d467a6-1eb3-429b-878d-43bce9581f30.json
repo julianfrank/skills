@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "08d467a6-1eb3-429b-878d-43bce9581f30",
+  "path": "Bun TLS",
+  "path_key": "bun tls",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

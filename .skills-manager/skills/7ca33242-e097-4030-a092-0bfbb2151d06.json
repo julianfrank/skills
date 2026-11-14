@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ca33242-e097-4030-a092-0bfbb2151d06",
+  "path": "Bun Use snapshot testing in `bun test`",
+  "path_key": "bun use snapshot testing in `bun test`",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

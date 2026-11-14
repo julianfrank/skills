@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "85c5f7a8-8b8b-4ef8-96b2-701458cc8f15",
+  "path": "Bun Configure git to diff Bun's lockb lockfile",
+  "path_key": "bun configure git to diff bun's lockb lockfile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

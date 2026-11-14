@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0344b1a-091b-4c29-a17d-72e51de86130",
+  "path": "google-cloud-solution-n-tier-serverless-web-app",
+  "path_key": "google-cloud-solution-n-tier-serverless-web-app",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "efa8ac52-c4ea-465f-8a02-f9a4ac7de07c",
+  "path": "iam-helper-for-policy-management",
+  "path_key": "iam-helper-for-policy-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

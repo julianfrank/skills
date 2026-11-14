@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f704eb9-1c43-41cd-b079-7f4c27d6e938",
+  "path": "Bun Get the MIME type of a file",
+  "path_key": "bun get the mime type of a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

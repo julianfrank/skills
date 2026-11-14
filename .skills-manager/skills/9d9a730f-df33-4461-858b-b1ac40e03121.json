@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d9a730f-df33-4461-858b-b1ac40e03121",
+  "path": "google-cloud-solution-build-deploy-agents",
+  "path_key": "google-cloud-solution-build-deploy-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

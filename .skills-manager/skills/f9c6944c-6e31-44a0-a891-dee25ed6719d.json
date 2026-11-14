@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f9c6944c-6e31-44a0-a891-dee25ed6719d",
+  "path": "Bun Add a tarball dependency",
+  "path_key": "bun add a tarball dependency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

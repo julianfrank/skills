@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "400fc052-c4db-4b4b-891e-bc29def0aedf",
+  "path": "gke-cost-optimization",
+  "path_key": "gke-cost-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "505c19cc-1036-4f54-ba99-1883b6a947e6",
+  "path": "managed-airflow-recommendations",
+  "path_key": "managed-airflow-recommendations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

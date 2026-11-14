@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd8334b7-637c-487f-b023-641a50614ad7",
+  "path": "Bun Macros",
+  "path_key": "bun macros",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

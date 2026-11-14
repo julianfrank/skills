@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9d00468-ffe4-48e7-a5ae-eb2e9dccaaa5",
+  "path": "Bun Append content to a file",
+  "path_key": "bun append content to a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

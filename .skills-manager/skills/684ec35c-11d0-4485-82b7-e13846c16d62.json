@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "684ec35c-11d0-4485-82b7-e13846c16d62",
+  "path": "Bun Environment Variables",
+  "path_key": "bun environment variables",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

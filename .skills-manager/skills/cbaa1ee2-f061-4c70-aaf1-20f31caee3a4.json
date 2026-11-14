@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cbaa1ee2-f061-4c70-aaf1-20f31caee3a4",
+  "path": "google-cloud-networking-observability",
+  "path_key": "google-cloud-networking-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

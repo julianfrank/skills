@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b25f24f-4c03-4c5f-bb75-5ca61f272732",
+  "path": "Bun Write to stdout",
+  "path_key": "bun write to stdout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

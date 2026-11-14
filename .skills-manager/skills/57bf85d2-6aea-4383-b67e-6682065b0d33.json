@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "57bf85d2-6aea-4383-b67e-6682065b0d33",
+  "path": "Bun Read and write data to MongoDB using Mongoose and Bun",
+  "path_key": "bun read and write data to mongodb using mongoose and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

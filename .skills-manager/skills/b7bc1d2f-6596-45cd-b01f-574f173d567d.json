@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b7bc1d2f-6596-45cd-b01f-574f173d567d",
+  "path": "Bun WebSockets",
+  "path_key": "bun websockets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

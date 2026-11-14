@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8fe3988c-a18c-4d4b-9084-8fc9d5538dac",
+  "path": "Bun Create a Discord bot",
+  "path_key": "bun create a discord bot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

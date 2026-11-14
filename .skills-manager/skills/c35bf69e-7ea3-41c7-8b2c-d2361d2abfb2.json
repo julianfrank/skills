@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c35bf69e-7ea3-41c7-8b2c-d2361d2abfb2",
+  "path": "Bun Set a code coverage threshold with the Bun test runner",
+  "path_key": "bun set a code coverage threshold with the bun test runner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

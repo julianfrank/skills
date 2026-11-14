@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "46de7f6f-d54f-4ca5-bb64-608fb5b58659",
+  "path": "rental-property",
+  "path_key": "rental-property",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

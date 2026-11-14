@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9dd2701c-2f72-4c2d-b529-aadd9157b2ff",
+  "path": "expense-optimizer",
+  "path_key": "expense-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c48629db-3f02-4a5d-ba69-f7a650f00a5a",
+  "path": "Bun Convert a Uint8Array to an ArrayBuffer",
+  "path_key": "bun convert a uint8array to an arraybuffer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

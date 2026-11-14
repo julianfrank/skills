@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76f91e98-1dab-442a-a420-d229f763b10f",
+  "path": "Bun Server",
+  "path_key": "bun server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

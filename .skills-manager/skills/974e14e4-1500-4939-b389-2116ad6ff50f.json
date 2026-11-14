@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "974e14e4-1500-4939-b389-2116ad6ff50f",
+  "path": "Bun Node.js Compatibility",
+  "path_key": "bun node.js compatibility",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

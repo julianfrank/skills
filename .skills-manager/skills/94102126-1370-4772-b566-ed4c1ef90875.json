@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "94102126-1370-4772-b566-ed4c1ef90875",
+  "path": "Bun Write a simple HTTP server",
+  "path_key": "bun write a simple http server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

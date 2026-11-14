@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1de5121-ee0b-4747-8b85-a150263ad280",
+  "path": "gke-workload-scaling",
+  "path_key": "gke-workload-scaling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

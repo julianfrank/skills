@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20563ffe-f5c2-4f2d-a086-58e58077b918",
+  "path": "Bun FFI",
+  "path_key": "bun ffi",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

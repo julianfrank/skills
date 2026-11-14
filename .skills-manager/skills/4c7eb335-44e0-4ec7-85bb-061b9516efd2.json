@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c7eb335-44e0-4ec7-85bb-061b9516efd2",
+  "path": "Bun Deploy a Bun application on DigitalOcean",
+  "path_key": "bun deploy a bun application on digitalocean",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

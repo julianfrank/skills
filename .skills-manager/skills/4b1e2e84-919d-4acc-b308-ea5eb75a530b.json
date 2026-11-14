@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b1e2e84-919d-4acc-b308-ea5eb75a530b",
+  "path": "smart-categorize",
+  "path_key": "smart-categorize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

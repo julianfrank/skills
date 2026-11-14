@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7c3f013-755a-4cb2-8a48-cd3cde05ec2c",
+  "path": "Bun Add Sentry to a Bun app",
+  "path_key": "bun add sentry to a bun app",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

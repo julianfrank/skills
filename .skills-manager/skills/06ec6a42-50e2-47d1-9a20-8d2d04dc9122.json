@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06ec6a42-50e2-47d1-9a20-8d2d04dc9122",
+  "path": "egm-brainstorm",
+  "path_key": "egm-brainstorm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

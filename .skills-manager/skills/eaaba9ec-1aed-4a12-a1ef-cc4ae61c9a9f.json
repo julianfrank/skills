@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eaaba9ec-1aed-4a12-a1ef-cc4ae61c9a9f",
+  "path": "bigquery-graph-author",
+  "path_key": "bigquery-graph-author",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

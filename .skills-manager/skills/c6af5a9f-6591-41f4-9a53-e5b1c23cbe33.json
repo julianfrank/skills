@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6af5a9f-6591-41f4-9a53-e5b1c23cbe33",
+  "path": "Bun bun remove",
+  "path_key": "bun bun remove",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

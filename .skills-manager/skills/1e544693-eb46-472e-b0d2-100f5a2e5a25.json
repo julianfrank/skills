@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e544693-eb46-472e-b0d2-100f5a2e5a25",
+  "path": "gke-upgrades",
+  "path_key": "gke-upgrades",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

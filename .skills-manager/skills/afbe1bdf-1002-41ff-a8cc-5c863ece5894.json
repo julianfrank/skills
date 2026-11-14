@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "afbe1bdf-1002-41ff-a8cc-5c863ece5894",
+  "path": "gcp-managed-airflow-migrations",
+  "path_key": "gcp-managed-airflow-migrations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

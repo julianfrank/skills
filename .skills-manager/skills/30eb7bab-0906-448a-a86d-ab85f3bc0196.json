@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30eb7bab-0906-448a-a86d-ab85f3bc0196",
+  "path": "Bun Get the path to an executable bin file",
+  "path_key": "bun get the path to an executable bin file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

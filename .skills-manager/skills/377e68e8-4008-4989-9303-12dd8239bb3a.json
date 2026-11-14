@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "377e68e8-4008-4989-9303-12dd8239bb3a",
+  "path": "Bun Streaming HTTP Server with Node.js Streams",
+  "path_key": "bun streaming http server with node.js streams",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

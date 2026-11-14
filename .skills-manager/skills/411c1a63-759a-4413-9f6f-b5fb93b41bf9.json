@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "411c1a63-759a-4413-9f6f-b5fb93b41bf9",
+  "path": "Bun Hot reload an HTTP server",
+  "path_key": "bun hot reload an http server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

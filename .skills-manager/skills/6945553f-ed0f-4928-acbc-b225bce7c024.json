@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6945553f-ed0f-4928-acbc-b225bce7c024",
+  "path": "aws-database",
+  "path_key": "aws-database",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

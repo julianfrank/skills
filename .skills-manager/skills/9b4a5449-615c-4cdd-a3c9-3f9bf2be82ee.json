@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b4a5449-615c-4cdd-a3c9-3f9bf2be82ee",
+  "path": "Bun Convert a Blob to a DataView",
+  "path_key": "bun convert a blob to a dataview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

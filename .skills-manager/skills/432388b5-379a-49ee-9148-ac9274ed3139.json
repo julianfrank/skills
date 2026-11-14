@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "432388b5-379a-49ee-9148-ac9274ed3139",
+  "path": "Bun Write a ReadableStream to a file",
+  "path_key": "bun write a readablestream to a file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

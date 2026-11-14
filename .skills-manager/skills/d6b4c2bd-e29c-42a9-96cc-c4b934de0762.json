@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d6b4c2bd-e29c-42a9-96cc-c4b934de0762",
+  "path": "aws-storage",
+  "path_key": "aws-storage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "39a67d94-fef8-45d3-9d8a-fbe2f0172003",
+  "path": "cloud-armor-crs-rule-upgrader",
+  "path_key": "cloud-armor-crs-rule-upgrader",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

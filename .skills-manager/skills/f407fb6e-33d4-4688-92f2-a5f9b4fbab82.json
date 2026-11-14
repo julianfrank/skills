@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f407fb6e-33d4-4688-92f2-a5f9b4fbab82",
+  "path": "gke-ai-troubleshooting-tpu-partition-overlap",
+  "path_key": "gke-ai-troubleshooting-tpu-partition-overlap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ec1af27-8a7c-45b8-99d9-929996f255cd",
+  "path": "Bun esbuild",
+  "path_key": "bun esbuild",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

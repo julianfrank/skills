@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8de5906e-2ad7-4e25-8582-ab80b5c9690c",
+  "path": "Bun Isolated installs",
+  "path_key": "bun isolated installs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

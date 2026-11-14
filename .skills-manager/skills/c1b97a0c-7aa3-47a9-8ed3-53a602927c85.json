@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1b97a0c-7aa3-47a9-8ed3-53a602927c85",
+  "path": "firecrawl-fantasy-sports",
+  "path_key": "firecrawl-fantasy-sports",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

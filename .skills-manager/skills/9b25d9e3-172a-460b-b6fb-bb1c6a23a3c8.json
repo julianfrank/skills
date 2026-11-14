@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b25d9e3-172a-460b-b6fb-bb1c6a23a3c8",
+  "path": "sync-upstream-dependency-docs",
+  "path_key": "sync-upstream-dependency-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

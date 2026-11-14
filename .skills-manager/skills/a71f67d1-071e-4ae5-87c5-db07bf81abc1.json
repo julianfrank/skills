@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a71f67d1-071e-4ae5-87c5-db07bf81abc1",
+  "path": "alloydb-basics",
+  "path_key": "alloydb-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

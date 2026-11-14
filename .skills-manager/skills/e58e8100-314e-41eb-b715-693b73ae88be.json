@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e58e8100-314e-41eb-b715-693b73ae88be",
+  "path": "Bun Hot reloading",
+  "path_key": "bun hot reloading",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

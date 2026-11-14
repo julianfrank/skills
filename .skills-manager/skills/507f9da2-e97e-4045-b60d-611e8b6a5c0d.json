@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "507f9da2-e97e-4045-b60d-611e8b6a5c0d",
+  "path": "Bun SQL",
+  "path_key": "bun sql",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

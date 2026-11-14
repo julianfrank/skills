@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "97197207-ee9c-46f7-a99c-b159f3680e88",
+  "path": "aws-deployment",
+  "path_key": "aws-deployment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

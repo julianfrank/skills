@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c515c364-d977-459d-93d8-12af0c9f8b8d",
+  "path": "Bun Welcome to Bun",
+  "path_key": "bun welcome to bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

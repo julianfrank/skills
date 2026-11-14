@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "287223d9-bc78-4941-a0c7-3b2dcd09996c",
+  "path": "Bun Roadmap",
+  "path_key": "bun roadmap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

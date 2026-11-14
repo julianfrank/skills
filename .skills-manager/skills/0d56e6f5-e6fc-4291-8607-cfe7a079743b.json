@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d56e6f5-e6fc-4291-8607-cfe7a079743b",
+  "path": "open-knowledge-discovery",
+  "path_key": "open-knowledge-discovery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

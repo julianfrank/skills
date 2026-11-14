@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6b6020d1-2b94-4f25-8ca7-49b08fc9938a",
+  "path": "home-office-deduction",
+  "path_key": "home-office-deduction",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

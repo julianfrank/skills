@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a6911c22-1c1d-4ed9-baef-973f800cc9a0",
+  "path": "accidental-data-loss-prevention",
+  "path_key": "accidental-data-loss-prevention",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

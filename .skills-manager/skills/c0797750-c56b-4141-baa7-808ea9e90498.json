@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0797750-c56b-4141-baa7-808ea9e90498",
+  "path": "Bun Benchmarking",
+  "path_key": "bun benchmarking",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

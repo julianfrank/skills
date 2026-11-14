@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "10770422-6f8e-4e8f-b97b-fff490190dd7",
+  "path": "Bun Build-time constants with --define",
+  "path_key": "bun build-time constants with --define",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

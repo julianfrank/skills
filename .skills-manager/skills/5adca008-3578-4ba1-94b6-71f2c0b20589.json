@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5adca008-3578-4ba1-94b6-71f2c0b20589",
+  "path": "Bun DNS",
+  "path_key": "bun dns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

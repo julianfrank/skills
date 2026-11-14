@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "59de9353-7ccf-4eff-a143-dec34cb660a5",
+  "path": "Bun Build an app with SvelteKit and Bun",
+  "path_key": "bun build an app with sveltekit and bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

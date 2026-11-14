@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06f14600-f97f-44be-962c-94187ab8fc5b",
+  "path": "Bun Update snapshots in `bun test`",
+  "path_key": "bun update snapshots in `bun test`",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

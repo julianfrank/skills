@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "97f31e59-9016-4bd2-be6b-ff0528eafdcc",
+  "path": "gcp-composer-troubleshooting",
+  "path_key": "gcp-composer-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

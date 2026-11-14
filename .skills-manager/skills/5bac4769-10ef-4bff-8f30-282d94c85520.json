@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5bac4769-10ef-4bff-8f30-282d94c85520",
+  "path": "vite-plus",
+  "path_key": "vite-plus",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

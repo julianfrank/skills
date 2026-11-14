@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf41d8d6-0983-4f78-a7ba-c427424ccdce",
+  "path": "google-ads-api-account-diagnostics",
+  "path_key": "google-ads-api-account-diagnostics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

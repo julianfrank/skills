@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "442ee13d-dbc3-480f-b89d-63d5bd257639",
+  "path": "Bun bun patch",
+  "path_key": "bun bun patch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

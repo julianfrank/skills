@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5002ecd-9cda-4533-a0cd-389ccd312e1d",
+  "path": "Bun Listen for CTRL+C",
+  "path_key": "bun listen for ctrl+c",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

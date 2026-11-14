@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "532e3a6a-fc02-4879-b4dc-c21c911c86c9",
+  "path": "cloud-run-alert-configuration",
+  "path_key": "cloud-run-alert-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

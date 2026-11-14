@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cebfeb7c-3c59-4b41-bb40-a0b6c5af8d08",
+  "path": "google-cloud-filestore-log-troubleshooting",
+  "path_key": "google-cloud-filestore-log-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

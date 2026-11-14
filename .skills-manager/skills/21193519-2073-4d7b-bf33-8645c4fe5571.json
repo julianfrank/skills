@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21193519-2073-4d7b-bf33-8645c4fe5571",
+  "path": "google-cloud-solution-architecture",
+  "path_key": "google-cloud-solution-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

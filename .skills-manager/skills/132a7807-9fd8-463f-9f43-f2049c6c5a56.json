@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "132a7807-9fd8-463f-9f43-f2049c6c5a56",
+  "path": "debugging-lambda-timeouts",
+  "path_key": "debugging-lambda-timeouts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

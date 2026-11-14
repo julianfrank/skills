@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1552cee-ca20-45ea-9eb5-a892de7a75ef",
+  "path": "Bun Bytecode Caching",
+  "path_key": "bun bytecode caching",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

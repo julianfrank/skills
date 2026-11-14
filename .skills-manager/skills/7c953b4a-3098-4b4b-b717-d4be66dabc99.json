@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c953b4a-3098-4b4b-b717-d4be66dabc99",
+  "path": "data-autocleaning",
+  "path_key": "data-autocleaning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

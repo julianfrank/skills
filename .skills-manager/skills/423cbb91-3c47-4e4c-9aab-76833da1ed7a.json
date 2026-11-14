@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "423cbb91-3c47-4e4c-9aab-76833da1ed7a",
+  "path": "Bun Upload files via HTTP using FormData",
+  "path_key": "bun upload files via http using formdata",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "835d6b68-9dd5-40d2-9b99-ecee768968cc",
+  "path": "Bun C Compiler",
+  "path_key": "bun c compiler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

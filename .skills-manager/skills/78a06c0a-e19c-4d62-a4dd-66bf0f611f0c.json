@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "78a06c0a-e19c-4d62-a4dd-66bf0f611f0c",
+  "path": "Bun Use Drizzle ORM with Bun",
+  "path_key": "bun use drizzle orm with bun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af79f9f1-6909-42c7-a950-1f777baccd3e",
+  "path": "aws-compute",
+  "path_key": "aws-compute",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

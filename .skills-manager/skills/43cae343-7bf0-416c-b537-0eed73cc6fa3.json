@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "43cae343-7bf0-416c-b537-0eed73cc6fa3",
+  "path": "google-mobile-ads-get-started",
+  "path_key": "google-mobile-ads-get-started",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

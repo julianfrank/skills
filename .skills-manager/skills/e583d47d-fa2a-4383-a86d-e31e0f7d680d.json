@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e583d47d-fa2a-4383-a86d-e31e0f7d680d",
+  "path": "google-cloud-waf-operational-excellence",
+  "path_key": "google-cloud-waf-operational-excellence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "80c27273-bda4-4fff-99cb-bf9f34c055f9",
+  "path": "claude-handoff",
+  "path_key": "claude-handoff",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

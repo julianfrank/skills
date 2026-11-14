@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c50ee8f7-d2ee-4c33-b525-2f86d7954af2",
+  "path": "Bun Cookies",
+  "path_key": "bun cookies",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

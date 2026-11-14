@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1c115bb-f197-4bad-ac3b-5dbf636da35a",
+  "path": "iam-helper-for-troubleshooting",
+  "path_key": "iam-helper-for-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

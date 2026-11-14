@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "53b481a1-2a2a-4957-833a-b260cad795cb",
+  "path": "Bun Shell",
+  "path_key": "bun shell",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

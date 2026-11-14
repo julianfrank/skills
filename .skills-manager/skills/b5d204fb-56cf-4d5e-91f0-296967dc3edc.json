@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b5d204fb-56cf-4d5e-91f0-296967dc3edc",
+  "path": "aws-security",
+  "path_key": "aws-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe353789-2712-4e0e-915c-e04e81b7ea33",
+  "path": "cloud-logging-finops",
+  "path_key": "cloud-logging-finops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

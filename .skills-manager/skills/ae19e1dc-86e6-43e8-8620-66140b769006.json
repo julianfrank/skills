@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae19e1dc-86e6-43e8-8620-66140b769006",
+  "path": "gke-inference",
+  "path_key": "gke-inference",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

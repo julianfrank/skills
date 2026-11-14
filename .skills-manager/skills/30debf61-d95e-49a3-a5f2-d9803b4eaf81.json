@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30debf61-d95e-49a3-a5f2-d9803b4eaf81",
+  "path": "Bun Common HTTP server usage",
+  "path_key": "bun common http server usage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

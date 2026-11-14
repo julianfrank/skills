@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0dbacdc2-93ae-456c-ac10-7b40e8eb530d",
+  "path": "gemini-live-api",
+  "path_key": "gemini-live-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

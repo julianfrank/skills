@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7dcc317-f03f-4d00-b82c-7e6544084ea4",
+  "path": "google-ads-api-quickstart",
+  "path_key": "google-ads-api-quickstart",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

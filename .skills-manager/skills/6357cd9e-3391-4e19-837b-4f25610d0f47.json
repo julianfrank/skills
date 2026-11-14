@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6357cd9e-3391-4e19-837b-4f25610d0f47",
+  "path": "Bun Workspaces",
+  "path_key": "bun workspaces",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
